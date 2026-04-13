@@ -60,9 +60,37 @@ except Exception as e:
     print(f"Warning: Issue with EPA merge. Error: {e}")
 
 # ---------------------------------------------------------
+# MERGE 3: Custom Manual Overrides (The 5% Leftovers)
+# ---------------------------------------------------------
+print("4. Applying Manual Overrides from data_raw/manual_overrides.csv...")
+try:
+    overrides_df = pd.read_csv('data_raw/manual_overrides.csv')
+    
+    # Clean the names in your override file just in case you capitalized something
+    overrides_df['cleaned_name'] = overrides_df['cleaned_name'].apply(clean_name)
+    
+    # Drop duplicates just to be safe
+    overrides_unique = overrides_df.drop_duplicates(subset=['cleaned_name'])
+    
+    # Merge with the master database
+    master_db = pd.merge(master_db, overrides_unique[['cleaned_name', 'manual_cas_number']], on='cleaned_name', how='left')
+    
+    # Fill in blanks with your manual research
+    master_db['cas_number'] = master_db['cas_number'].fillna(master_db['manual_cas_number'])
+    
+    # Clean up the temporary column
+    master_db.drop(columns=['manual_cas_number'], inplace=True)
+    print("   -> Overrides successfully applied!")
+except FileNotFoundError:
+    print("   -> No manual_overrides.csv file found. Skipping this step.")
+except Exception as e:
+    print(f"Warning: Issue with Overrides merge. Error: {e}")
+
+
+# ---------------------------------------------------------
 # SAVE VERSION 2
 # ---------------------------------------------------------
-print("4. Saving enriched database...")
+print("5. Saving enriched database...")
 master_db.to_csv('data_clean/master_db_v2.csv', index=False)
 
 # Calculate how many CAS numbers are still missing
