@@ -1,8 +1,8 @@
 import pandas as pd
 
-print("1. Loading FINAL databases...")
-master_db = pd.read_csv('data_clean/master_db_FINAL.csv')
-aliases_db = pd.read_csv('data_clean/aliases_db_FINAL.csv')
+print("1. Loading final cleaned databases...")
+master_db = pd.read_csv('data_middle/master_db_FINAL.csv')
+aliases_db = pd.read_csv('data_middle/aliases_db_FINAL.csv')
 
 # Separate the database into "Has CAS" and "No CAS"
 # We only want to deduplicate the ones that actually have a CAS number!
@@ -47,7 +47,7 @@ if new_aliases:
 
 # 5. Save the ultimate versions
 print("3. Saving the DEDUPLICATED Gold Standard databases...")
-final_master_db.to_csv('data_clean/master_db_GOLD.csv', index=False)
-aliases_db.to_csv('data_clean/aliases_db_GOLD.csv', index=False)
+final_master_db.to_csv('data_match_reference/master_db_GOLD.csv', index=False)
+aliases_db.to_csv('data_match_reference/aliases_db_GOLD.csv', index=False)
 
 print("SUCCESS! Your Master Data is now perfectly resolved.")

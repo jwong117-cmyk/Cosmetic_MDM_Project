@@ -24,12 +24,12 @@ def clean_for_matching(text):
 def main():
     print("Loading databases...")
     # 1. Load the target product database (the one we made in the last step)
-    products_df = pd.read_csv('data_clean/top_10_product_ingrd.csv')
+    products_df = pd.read_csv('data_middle/top_10_product_ingrd.csv')
     
     # 2. Load the Reference Databases
-    master_gold = pd.read_csv('data_clean/master_db_GOLD.csv')
-    aliases_gold = pd.read_csv('data_clean/aliases_db_GOLD.csv')
-    reg_table = pd.read_csv('data_clean/Overarching_Regulatory_Table.csv')
+    master_gold = pd.read_csv('data_match_reference/master_db_GOLD.csv')
+    aliases_gold = pd.read_csv('data_match_reference/aliases_db_GOLD.csv')
+    reg_table = pd.read_csv('data_match_reference/Overarching_Regulatory_Table.csv')
 
     print("Building lookup dictionaries...")
     # --- BUILD LOOKUPS ---

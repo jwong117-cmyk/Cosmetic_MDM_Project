@@ -4,7 +4,7 @@ import re
 
 # 1. Import your downloaded python file as a module
 # This allows us to access all the lists you defined in that file!
-import top_10_ingredients_across_sephora_ulta_yes as top10
+from data_raw import top_10_ingredients_across_sephora_ulta_yes as top10
 
 def clean_ingredient_text(text):
     """Cleans ingredient strings to match your GOLD database format."""
@@ -16,7 +16,7 @@ def clean_ingredient_text(text):
 
 def main():
     print("Loading Master Database for CAS lookup...")
-    master_gold = pd.read_csv('data_clean/master_db_GOLD.csv')
+    master_gold = pd.read_csv('data_match_reference/master_db_GOLD.csv')
     
     # Create a mapping dictionary: {cleaned_name: cas_number}
     name_to_cas = dict(zip(master_gold['cleaned_name'].astype(str).str.lower(), master_gold['cas_number']))
@@ -86,7 +86,7 @@ def main():
     final_db = df[['ingredient_name', 'retailer', 'product_name', 'cas_number']]
     
     # Export the final database into your clean folder
-    output_path = 'data_clean/top_10_product_ingrd.csv'
+    output_path = 'data_middle/top_10_product_ingrd.csv'
     final_db.to_csv(output_path, index=False, encoding='utf-8-sig')
     
     print(f"\n✅ Success! Created {output_path} with {len(final_db)} ingredient entries.")

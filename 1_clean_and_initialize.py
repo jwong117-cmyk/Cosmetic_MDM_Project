@@ -30,7 +30,7 @@ aliases_db = master_db[['cleaned_name', 'name']].copy()
 aliases_db.rename(columns={'cleaned_name': 'master_id', 'name': 'alias_name'}, inplace=True)
 
 # 5. Save the output to your data_clean folder
-master_db.to_csv('data_clean/master_db_v1.csv', index=False)
-aliases_db.to_csv('data_clean/aliases_db.csv', index=False)
+master_db.to_csv('data_middle/master_db_v1.csv', index=False)
+aliases_db.to_csv('data_middle/aliases_db.csv', index=False)
 
-print("Success! Created 'master_db_v1.csv' and 'aliases_db.csv' in the data_clean folder.")
+print("Success! Created 'master_db_v1.csv' and 'aliases_db.csv' in the data_middle folder.")

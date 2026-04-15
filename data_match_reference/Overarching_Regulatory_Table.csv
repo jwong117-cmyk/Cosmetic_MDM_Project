@@ -44,15 +44,19 @@ Gold_Ingredient_Name,CAS_Number,Banned_in_California,Banned_in_Taiwan,Banned_in_
 (Dbtc),683-18-1,No,No,Yes,,(EU) 2019/831
 (Diethylhexyl Phthalate),117-81-7,No,No,Yes,,(EC) 2009/1223
 "(E)-1-(2-Chloro-1,3-Thiazol-5-Ylmethyl)-3-Methyl-2-Nitroguanidine",210880-92-5,No,No,Yes,,(EU) 2025/877
-"(E)-2'-[2-(4-Cyanophenyl)- 1-(A,A,A -Trifluoro-M-Tolyl) Ethylidene]- [4-(Trifluoromethoxy)Phenyl]Carbanilohydrazide","139968-49-3, 852403-68-0",No,No,Yes,,(EU) 2021/850
+"(E)-2'-[2-(4-Cyanophenyl)- 1-(Α,Α,Α -Trifluoro-M-Tolyl) Ethylidene]- [4-(Trifluoromethoxy)Phenyl]Carbanilohydrazide","139968-49-3, 852403-68-0",No,No,Yes,,(EU) 2021/850
 "(E)-2-(Methoxyimino)-N-Methyl-2-[A-(2,5-Xylyloxy)-O-Tolyl]Acetamide",149961-52-4,No,No,Yes,,(EU) 2019/831
 (E)-3-[1-[4-[2-(Dimethylamino)Ethoxy]Phenyl]-2-Phenylbut-1-Enyl]Phenol,82413-20-5,No,No,Yes,,(EU) 2019/831
 (E)-Crotonaldehyde,"4170-30-3, 123-73-9",No,No,Yes,,(EC) 2009/1223
 (E)-N1-[(6-Chloro-3-Pyridyl)Methyl]-N2-Cyano-N1-Methylacetamidine,"135410-20-7, 160430-64-8",No,No,Yes,,(EU) 2023/1490
 "(E,Z)-4-(3-(4-Chlorophenyl)-3-(3,4-Dimethoxyphenyl)Acryloyl)Morpholine",110488-70-5,No,No,Yes,,(EU) 2022/1531
 (Epoxyethyl)Benzene (Styrene Oxide),96-09-3,No,No,Yes,,(EC) 2009/1223
-"(Ez)-2'-[2-(4-Cyanophenyl)-1-(A,A,A -Trifluoro-M- Tolyl)Ethylidene]- [4-(Trifluoromethoxy)Phenyl] Carbanilohydrazide [E-Isomer ≥ 90 %, Z-Isomer ≤ 10 % Relative Content]","139968-49-3, 852403-68-0",No,No,Yes,,(EU) 2021/850
+"(Ez)-2'-[2-(4-Cyanophenyl)-1-(Α,Α,Α -Trifluoro-M- Tolyl)Ethylidene]- [4-(Trifluoromethoxy)Phenyl] Carbanilohydrazide [E-Isomer ≥ 90 %, Z-Isomer ≤ 10 % Relative Content]","139968-49-3, 852403-68-0",No,No,Yes,,(EU) 2021/850
 (Isodecanoato-O)(Isononanoato-O)Nickel,"16083-14-0, 3349-08-4, 39819-65-3, 18721-51-2, 18283-82-4, 22605-92-1, 4454-16-4, 7580-31-6, 93983-68-7, 29317-63-3, 27637-46-3, 84852-37-9, 93920-10-6, 85508-43-6, 85508-44-7, 51818-56-5",No,No,Yes,,(EU) 2019/831
+(Isodecanoato-O)(Isooctanoato-O)Nickel,"16083-14-0, 3349-08-4, 39819-65-3, 18721-51-2, 18283-82-4, 22605-92-1, 4454-16-4, 7580-31-6, 93983-68-7, 29317-63-3, 27637-46-3, 84852-37-9, 93920-10-6, 85508-43-6, 85508-44-7, 51818-56-5",No,No,Yes,,(EU) 2019/831
+(Isononanoato-O)(Isooctanoato-O)Nickel,"16083-14-0, 3349-08-4, 39819-65-3, 18721-51-2, 18283-82-4, 22605-92-1, 4454-16-4, 7580-31-6, 93983-68-7, 29317-63-3, 27637-46-3, 84852-37-9, 93920-10-6, 85508-43-6, 85508-44-7, 51818-56-5",No,No,Yes,,(EU) 2019/831
+(Isononanoato-O)(Neodecanoato-O)Nickel,"16083-14-0, 3349-08-4, 39819-65-3, 18721-51-2, 18283-82-4, 22605-92-1, 4454-16-4, 7580-31-6, 93983-68-7, 29317-63-3, 27637-46-3, 84852-37-9, 93920-10-6, 85508-43-6, 85508-44-7, 51818-56-5",No,No,Yes,,(EU) 2019/831
+(Isooctanoato-O)(Neodecanoato-O)Nickel,"16083-14-0, 3349-08-4, 39819-65-3, 18721-51-2, 18283-82-4, 22605-92-1, 4454-16-4, 7580-31-6, 93983-68-7, 29317-63-3, 27637-46-3, 84852-37-9, 93920-10-6, 85508-43-6, 85508-44-7, 51818-56-5",No,No,Yes,,(EU) 2019/831
 (Methyl-Onn-Azoxy)Methyl Acetate,592-62-1,No,No,Yes,,(EC) 2009/1223
 "(Methylenebis(4,1-Phenylenazo(1-(3-(Dimethylamino)Propyl)-1,2-Dihydro-6-Hydroxy-4-Methyl-2-Oxopyridine-5,3-Diyl)))-1,1'-Dipyridinium Dichloride Dihydrochloride",,No,No,Yes,,(EC) 2009/1223
 (Michler'S Ketone),90-94-8,No,No,Yes,,(EC) 2009/1223
@@ -420,7 +424,7 @@ Gold_Ingredient_Name,CAS_Number,Banned_in_California,Banned_in_Taiwan,Banned_in_
 "3,7-Dimethylocta-2,6- Dienenitrile",5146-66-7,No,No,Yes,,(EU) 2019/1966
 "3,8-Diamino-1-Ethyl-6-Phenylphenantridinium Bromide",1239-45-8,No,No,Yes,,(EU) 2019/831
 3- And 4- Cyclohex-3-Ene-1-Carbaldehyde,51414-25-6/31906-04-4,No,Yes,No,,
-3- [3-(4'-Bromobiphenyl- 4-Yl)-3-Hydroxy-1-Phenylpropyl]-4-Hydroxy- 2H-Chromen-2-One,28772-56-7,No,No,Yes,,(EU) 2019/1966
+3- [3-(4′-Bromobiphenyl- 4-Yl)-3-Hydroxy-1-Phenylpropyl]-4-Hydroxy- 2H-Chromen-2-One,28772-56-7,No,No,Yes,,(EU) 2019/1966
 3-(1-Naphthyl)-4-Hydroxycoumarin,39923-41-6,No,No,Yes,,(EC) 2009/1223
 "3-(2,4-Dichlorophenyl)-2-Oxo- 1-Oxaspiro[4.5]Dec-3-En-4-Yl 2,2-Dimethylbutyrate",148477-71-8,No,No,Yes,,(EU) 2019/1966
 "3-(2-Chloro-Thiazol-5-Ylmethyl)-5-Methyl[1,3,5]Oxadiazinan-4-Ylidene-N-Nitroamine",153719-23-4,No,No,Yes,,(EU) 2022/1531
@@ -459,7 +463,7 @@ Gold_Ingredient_Name,CAS_Number,Banned_in_California,Banned_in_Taiwan,Banned_in_
 "3-Phenyl)Azo)-1,2--Dimethyl-1H-1,2,4-Triazolium And Its Salts",89959-98-8/12221-69-1,No,Yes,No,,
 "3-[(2-Nitro-4-(Trifluoromethyl)Phenyl)Amino]Propane-1,2-Diol (Hc Yellow No 6) And Its Salts, When Used As A Substance In Hair Dye Products",104333-00-8,No,No,Yes,,(EC) 2009/1223
 "3-[(4-(Acetylamino)Phenyl)Azo]-4-Hydroxy-7-[[[[5-Hydroxy-6-(Phenylazo)-7-Sulfo-2-Naphthalenyl]Amino]Carbonyl]Amino]-2-Naphthalenesulfonic Acid And Its Salts, When Used As A Substance In Hair Dye Products",3441-14-3,No,No,Yes,,(EC) 2009/1223
-"3-[3-(4'-Bromobiphenyl-4-Yl)-1,2,3,4-Tetrahydronaphthalen-1-Yl]- 4-Hydroxy-2H-1-Benzothiopyran-2-One",104653-34-1,No,No,Yes,,(EU) 2019/1966
+"3-[3-(4′-Bromobiphenyl-4-Yl)-1,2,3,4-Tetrahydronaphthalen-1-Yl]- 4-Hydroxy-2H-1-Benzothiopyran-2-One",104653-34-1,No,No,Yes,,(EU) 2019/1966
 "3-[Phenyl)Amino]Propane1,2-Diol  And Its Salts",104333-00-8,No,Yes,No,,
 3-[Phenyl)Azo]-4-Hydroxy-7-[[[[5-Hydroxy-6--7-Sulfo-2-Naphthalenyl]Amino]Carbonyl]Amino]-2-Naphthalenesulfonic Acid And Its Salts,3441-14-3,No,Yes,No,,
 "3-[[4-[(2-Hydroxyethyl)Methylamino]-2-Nitrophenyl]Amino]-1,2-Propanediol And Its Salts, When Used As A Substance In Hair Dye Products","173994-75-7, 102767-27-1",No,No,Yes,,(EC) 2009/1223
@@ -543,7 +547,7 @@ Gold_Ingredient_Name,CAS_Number,Banned_in_California,Banned_in_Taiwan,Banned_in_
 4-Ethylamino-3-Nitrobenzoic Acid  And Its Salts,2788-74-1,No,Yes,No,,
 "4-Ethylamino-3-Nitrobenzoic Acid (N-Ethyl-3-Nitro Paba) And Its Salts, When Used As A Substance In Hair Dye Products",2788-74-1,No,No,Yes,,(EC) 2009/1223
 "4-Hydroxy-3,5-Diiodobenzonitrile","1689-83-4, 3861-47-0",No,No,Yes,,(EC) 2009/1223
-"4-Hydroxy-3-(3-(4'-Bromo-4-Biphenylyl)-1,2,3,4-Tetrahydro-1-Naphthyl)Coumarin",56073-10-0,No,No,Yes,,(EU) 2019/1966
+"4-Hydroxy-3-(3-(4′-Bromo-4-Biphenylyl)-1,2,3,4-Tetrahydro-1-Naphthyl)Coumarin",56073-10-0,No,No,Yes,,(EU) 2019/1966
 4-Hydroxyindole,2380-94-1,No,Yes,No,,
 "4-Hydroxyindole, When Used As A Substance In Hair Dye Products",2380-94-1,No,No,Yes,,(EC) 2009/1223
 4-Mesyl-2-Nitrotoluene,1671-49-4,No,No,Yes,,(EU) 2019/831
@@ -554,7 +558,7 @@ Gold_Ingredient_Name,CAS_Number,Banned_in_California,Banned_in_Taiwan,Banned_in_
 4-Methyl-M-Phenylenediamine  And Its Salts,95-80-7,No,Yes,No,,
 "4-Methyl-M-Phenylenediamine (Toluene-2,4-Diamine) And Its Salts",95-80-7,No,No,Yes,,(EC) 2009/1223
 4-Methyl-N-Phenyl-6-(1-Propynyl)-2-Pyrimidinamine,110235-47-7,No,No,Yes,,(EU) 2019/831
-4-Methylbenzylidene Camphor,36861-47-9,No,No,Yes,4-Methylbenzylidene Camphor | 3-(4'-Methylbenzylidene)-Camphor | [Inci: 4-Methylbenzylidene Camphor],(EU) 2024/996
+4-Methylbenzylidene Camphor,36861-47-9,No,No,Yes,3-(4'-Methylbenzylidene)-Camphor | 4-Methylbenzylidene Camphor | [Inci: 4-Methylbenzylidene Camphor],(EU) 2024/996
 4-Methylimidazole,822-36-6,No,No,Yes,,(EU) 2025/877
 4-Methylpentan-2-One,108-10-1,No,No,Yes,,(EU) 2022/1531
 4-Nitro-M-Phenylenediamine And Its Salts,5131-58-8,No,Yes,No,,
@@ -890,20 +894,20 @@ Bufo Melanostictus,,No,Yes,No,,
 Bunsenite,"1313-99-1, 11099-02-8, 34492-97-2",No,No,Yes,,(EC) 2009/1223
 Bupirimate (Iso),41483-43-6,No,No,Yes,,(EU) 2019/1966
 "Buta-1,3-Diene, See Also Entries 464-611",106-99-0,No,No,Yes,,(EC) 2009/1223
-Butane,106-97-8,No,No,Yes,"Butane | Butane, If It Contains = >0,1 % W/W Butadiene",(EC) 2009/1223
+Butane,106-97-8,No,No,Yes,"Butane, If It Contains = >0,1 % W/W Butadiene | Butane",(EC) 2009/1223
 Butanilicaine  And Its Salts,3785-21-5,No,Yes,No,,
 Butanilicaine (Inn) And Its Salts,3785-21-5,No,No,Yes,,(EC) 2009/1223
 Butopiprine  And Its Salts,55837-15-5,No,Yes,No,,
 Butopiprine (Inn) And Its Salts,55837-15-5,No,No,Yes,,(EC) 2009/1223
 Butyl Glycidyl Ether,2426-08-6,No,No,Yes,,(EC) 2009/1223
-Butylphenyl Methylpropional,80-54-6,Yes,No,Yes,2-(4-Tert-Butylbenzyl) Propionaldehyde | Butylphenyl Methylpropional | Lily Aldehyde,Ban Year: 2027 | (EU) 2021/1902
+Butylphenyl Methylpropional,80-54-6,Yes,No,Yes,Lily Aldehyde | 2-(4-Tert-Butylbenzyl) Propionaldehyde | Butylphenyl Methylpropional,Ban Year: 2027 | (EU) 2021/1902
 C.I. 77332,"68186-89-0, 58591-45-0, 12737-30-3, 27016-75-7",No,No,Yes,,(EU) 2019/831
 C.I. 77900,68610-24-2,No,No,Yes,,(EU) 2019/831
 C.I. Disperse Blue 1,2475-45-8,Yes,No,No,,Ban Year: 2027
 C.I. Disperse Blue 3,2475-46-9,Yes,No,No,,Ban Year: 2027
 C.I. Pigment Black 25,"68186-89-0, 58591-45-0, 12737-30-3, 27016-75-7",No,No,Yes,,(EU) 2019/831
 C.I. Pigment Yellow 157,68610-24-2,No,No,Yes,,(EU) 2019/831
-C13-15 Alkane,64742-46-7,No,No,Yes,"C13-15 Alkane | c15-19 alkane | Distillates (Petroleum), Hydrotreated Middle, Except If The Full Refining History Is Known And It Can Be Shown That The Substance From Which It Is Produced Is Not A Carcinogen",(EC) 2009/1223
+C13-15 Alkane,64742-46-7,No,No,Yes,"Distillates (Petroleum), Hydrotreated Middle, Except If The Full Refining History Is Known And It Can Be Shown That The Substance From Which It Is Produced Is Not A Carcinogen | C13-15 Alkane | c15-19 alkane",(EC) 2009/1223
 Ca Phenates (Branched C10-14 And C18-30 Alkylated),,No,No,Yes,,(EU) 2019/831
 Ca Sulfurised Phenates (Branched C10-14 And C18-30 Alkylated),,No,No,Yes,,(EU) 2019/831
 Cadmium And Its Compounds,7440-43-9,No,Yes,Yes,,"化粧品於製造過程中, 如因所需使用原料或其他因素, 且技術上無法避免, 致含自然殘留微量時, 則其最終製品中所含不純物重金屬鎘之殘留量, 不得超過5ppm.  | (EC) 2009/1223"
@@ -998,7 +1002,7 @@ Ci 12085) And Its Salts When Used As A Substance In Hair Dye Products,2814-77-9,
 Ci 12370) And Its Salts When Used As A Substance In Hair Dye Products,6535-46-2,No,No,Yes,,(EC) 2013/344
 Ci 12490) And Its Salts When Used As A Substance In Hair Dye Products,6410-41-9,No,No,Yes,,(EC) 2013/344
 Ci 14270) (Cas 547-57-9,"2050-34-2, 547-57-9",No,No,Yes,,(EC) 2013/344
-Ci 14700,4548-53-2,No,No,Yes,"Disodium 3-[(2,4-Dimethyl-5-Sulphonatophenyl)Azo]-4-Hydroxynaphthalene-1-Sulphonate (Ponceaux Sx | Ci 14700) When Used As A Substance In Hair Dye Products | Ci 14700",(EC) 2013/344
+Ci 14700,4548-53-2,No,No,Yes,"Ci 14700) When Used As A Substance In Hair Dye Products | Disodium 3-[(2,4-Dimethyl-5-Sulphonatophenyl)Azo]-4-Hydroxynaphthalene-1-Sulphonate (Ponceaux Sx | Ci 14700",(EC) 2013/344
 Ci 15800)  When Used As A Substance In Hair Dye Products,"27757-79-5, 6371-76-2",No,No,Yes,,(EC) 2013/344
 Ci 15865) When Used As A Substance In Hair Dye Products,3564-21-4,No,No,Yes,,(EC) 2013/344
 Ci 15880) When Used As A Substance In Hair Dye Products,6417-83-0,No,No,Yes,,(EC) 2013/344
@@ -1119,7 +1123,7 @@ Cyclomenol  And Its Salts,5591-47-9,No,Yes,No,,
 Cyclomenol (Inn) And Its Salts,5591-47-9,No,No,Yes,,(EC) 2009/1223
 Cyclophosphamide  And Its Salts,50-18-0,No,Yes,No,,
 Cyclophosphamide (Inn) And Its Salts,50-18-0,No,No,Yes,,(EC) 2009/1223
-Cyclotetrasiloxane,556-67-2,Yes,No,Yes,Octamethylcyclotetrasiloxane | D4 | Cyclotetrasiloxane,Ban Year: 2027 | (EU) 2019/831
+Cyclotetrasiloxane,556-67-2,Yes,No,Yes,Cyclotetrasiloxane | Octamethylcyclotetrasiloxane | D4,Ban Year: 2027 | (EU) 2019/831
 Cycloxydim (Iso),101205-02-1,No,No,Yes,,(EU) 2019/831
 Cyflumetofen (Iso),400882-07-7,No,No,Yes,,(EU) 2021/850
 Cyhexatin,13121-70-5,No,Yes,No,,
@@ -1969,7 +1973,7 @@ N-(Trichloromethylthio)Phthalimide (Folpet - Iso),133-07-3,No,No,Yes,,(EC) 2009/
 "N--N,N-Diisopropylmethyl-Ammonium Salts, E. G. Isopropamide Iodide",71-81-8,No,Yes,No,,
 N--P-Phenylenediamine And Its Hcl Salt,72584-59-9/66566-48-1,No,Yes,No,,
 N-2-Naphthylaniline,135-88-6,No,No,Yes,,(EC) 2009/1223
-"N-Butyl-N-Ethyl-A,A,A-Trifluoro-2,6-Dinitro-P-Toluidine",1861-40-1,No,No,Yes,,(EU) 2025/877
+"N-Butyl-N-Ethyl-Α,Α,Α-Trifluoro-2,6-Dinitro-P-Toluidine",1861-40-1,No,No,Yes,,(EU) 2025/877
 N-Carboxymethyliminobis(Ethylenenitrilo)Tetra(Acetic Acid),67-43-6,No,No,Yes,,(EU) 2023/1490
 "N-Cyclohexyl-N-Methoxy-2,5-Dimethyl-3-Furamide (Furmecyclox - Iso)",60568-05-0,No,No,Yes,,(EC) 2009/1223
 N-Cyclopentyl-M-Aminophenol,104903-49-3,No,Yes,No,,
@@ -2463,7 +2467,7 @@ Skimmia Reevesiana Fortune,,No,Yes,No,,
 "Slimes And Sludges, Copper Electrolyte Refining, Decopperised",94551-87-8,No,No,Yes,,(EU) 2019/831
 "Slimes And Sludges, Copper Electrolytic Refining, Decopperised, Nickel Sulfate",92129-57-2,No,No,Yes,,(EU) 2019/831
 Sodium 3-(Allyloxy)-2-Hydroxypropanesulphonate,52556-42-0,No,No,Yes,,(EU) 2026/78
-Sodium Borate,1330-43-4,Yes,Yes,Yes,"Sodium Borate (Disodium Tetraborate Anhydrous) | Borax Pentahydrate | Disodium Octaborate Tetrahydrate | Zinc Borate | Disodium Tetraborate Pentahydrate | Trioctyldodecyl Borate | Sodium Borate, Disodium Tetraborate Anhydrous | Borates, Tetraborates, Octaborates And Boric Acid Salts And Esters, Including: | Borax Decahydrate | Sodium Borate | Disodium Tetraborate Decahydrate | Tetraboron Disodium Heptaoxide, Hydrate | Potassium Borate, Boric Acid Potassium Salt | Orthoboric Acid, Sodium Salt | Boric Acid, Sodium Salt | 2-Hydroxypropyl Ammonium Dihydrogen Orthoborate | 2-Aminoethanol, Monoester With Boric Acid | Disodium Octaborate Anhydrous","Ban Year: 2027 | 含微量Sodium borate用以乳化Beeswax及Bleached Beeswax者, 不在此限, 惟其含量不得超過0.76%.  | (EU) 2019/1966"
+Sodium Borate,1330-43-4,Yes,Yes,Yes,"Disodium Tetraborate Pentahydrate | Borax Decahydrate | Disodium Tetraborate Decahydrate | Borates, Tetraborates, Octaborates And Boric Acid Salts And Esters, Including: | Borax Pentahydrate | Sodium Borate (Disodium Tetraborate Anhydrous) | Orthoboric Acid, Sodium Salt | Boric Acid, Sodium Salt | Tetraboron Disodium Heptaoxide, Hydrate | Disodium Octaborate Anhydrous | Trioctyldodecyl Borate | Potassium Borate, Boric Acid Potassium Salt | Zinc Borate | 2-Hydroxypropyl Ammonium Dihydrogen Orthoborate | Disodium Octaborate Tetrahydrate | Sodium Borate, Disodium Tetraborate Anhydrous | Sodium Borate | 2-Aminoethanol, Monoester With Boric Acid","Ban Year: 2027 | 含微量Sodium borate用以乳化Beeswax及Bleached Beeswax者, 不在此限, 惟其含量不得超過0.76%.  | (EU) 2019/1966"
 "Sodium Borate, Disodium Tetraborate Anhydrous","12008-41-2, 12280-03-4, 10377-81-8, 68003-13-4, 12712-38-8, 1332-07-6, 12267-73-1, 13840-56-7, 1303-96-4, 12179-04-3",No,No,Yes,,(EU) 2019/1966
 Sodium Cyanide/Potassium Cyanide/Silver Cyanide/Copper Cyanide/Copper Potassium Cyanide/Cadmium Cyanide/Zinc Cyanide/Copper Cyanide/Copper Sodium Cyanide,143-33-9/151-50-8/506-64-9/544-92-3/13682-73-0/542-83-6/557-21-1/14763-77-0/14264-31-4,No,Yes,No,,
 Sodium Heptadecafluorononanoate,21049-39-8,Yes,No,No,,Ban Year: 2025
@@ -2499,7 +2503,7 @@ Strophantus Species And Their Galenical Preparations,,No,No,Yes,,(EC) 2009/1223
 Strychnine And Its Salts,57-24-9,No,No,Yes,,(EC) 2009/1223
 Strychnos Species And Their Galenical Preparations,,No,Yes,Yes,,(EC) 2009/1223
 Styrene,100-42-5,Yes,No,Yes,,Ban Year: 2027 | (EU) 2019/831
-Styrene/Acrylates Copolymer,9010-92-8,No,No,Yes,Styrene/Acrylates Copolymer (Nano) [Inci] | Styrene/Acrylates Copolymer | Sodium Styrene/Acrylates Copolymer (Nano) [Inci],(EU) 2024/858
+Styrene/Acrylates Copolymer,9010-92-8,No,No,Yes,Sodium Styrene/Acrylates Copolymer (Nano) [Inci] | Styrene/Acrylates Copolymer | Styrene/Acrylates Copolymer (Nano) [Inci],(EU) 2024/858
 Substances With Androgenic Effect,,No,Yes,Yes,,(EC) 2009/1223
 Succinonitrile,110-61-2,No,No,Yes,,(EC) 2009/1223
 Sulcotrione (Iso),99105-77-8,No,No,Yes,,(EU) 2019/831
@@ -2624,7 +2628,7 @@ Tranylcypromine (Inn) And Its Salts,155-09-9,No,No,Yes,,(EC) 2009/1223
 Travamide,,No,Yes,No,,
 Tretamine,51-18-3,No,Yes,No,,
 Tretamine (Inn),51-18-3,No,No,Yes,,(EC) 2009/1223
-Tretinoin,302-79-4,No,Yes,Yes,Vitamin A acid | 302-79-4 | Tretinoin | Retinoic acid | Tretinoin (Inn) (Retinoic Acid And Its Salts) | all-trans-Retinoic acid | tretinoin,(EC) 2009/1223
+Tretinoin,302-79-4,No,Yes,Yes,all-trans-Retinoic acid | tretinoin | 302-79-4 | Tretinoin (Inn) (Retinoic Acid And Its Salts) | Vitamin A acid | Tretinoin | Retinoic acid,(EC) 2009/1223
 Triadimenol (Iso),55219-65-3,No,No,Yes,,(EU) 2019/831
 "Triammonium 4-[4-[7-(4-Carboxylatoanilino)-1-Hydroxy-3-Sulfonato-2-Naphthylazo]-2,5-Dimethoxyphenylazo]Benzoate",221354-37-6,No,No,Yes,,(EU) 2019/831
 Triamterene  And Its Salts,396-01-0,No,Yes,No,,

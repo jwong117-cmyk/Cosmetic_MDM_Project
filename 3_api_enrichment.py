@@ -5,8 +5,8 @@ import time
 import re
 
 print("1. Loading databases...")
-master_db = pd.read_csv('data_clean/master_db_v2.csv')
-aliases_df = pd.read_csv('data_clean/aliases_db.csv')
+master_db = pd.read_csv('data_middle/master_db_v2.csv')
+aliases_df = pd.read_csv('data_middle/aliases_db.csv')
 new_aliases = []
 
 # Function to ping the PubChem API
@@ -65,10 +65,10 @@ print("\n3. Saving FINAL databases...")
 if new_aliases:
     aliases_df = pd.concat([aliases_df, pd.DataFrame(new_aliases)]).drop_duplicates()
 
-master_db.to_csv('data_clean/master_db_FINAL.csv', index=False)
-aliases_df.to_csv('data_clean/aliases_db_FINAL.csv', index=False)
+master_db.to_csv('data_middle/master_db_FINAL.csv', index=False)
+aliases_df.to_csv('data_middle/aliases_db_FINAL.csv', index=False)
 
 still_missing = master_db['cas_number'].isna().sum()
 print(f"\nPIPELINE COMPLETE! Found {found_count} new CAS numbers.")
 print(f"There are {still_missing} stubborn ingredients left.")
-print("Check your 'data_clean' folder for the FINAL files!")
+print("Check your 'data_middle' folder for the final cleaned files!")

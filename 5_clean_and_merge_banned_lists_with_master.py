@@ -46,8 +46,8 @@ def main():
     ca_df = pd.read_csv('data_raw/Califronia_Banned_Chemiccals.csv', encoding='utf-8')
     tw_df = pd.read_csv('data_raw/Taiwan_Cosmetics_Prohibited_Ingredients.csv', encoding='utf-8')
     eu_df = pd.read_csv('data_raw/eu_annex.csv', encoding='utf-8')
-    master_gold = pd.read_csv('data_clean/master_db_GOLD.csv', encoding='utf-8')
-    aliases_gold = pd.read_csv('data_clean/aliases_db_GOLD.csv', encoding='utf-8')
+    master_gold = pd.read_csv('data_match_reference/master_db_GOLD.csv', encoding='utf-8')
+    aliases_gold = pd.read_csv('data_match_reference/aliases_db_GOLD.csv', encoding='utf-8')
 
     # Clean CAS in master for accurate mapping
     master_gold['cas_number'] = clean_cas(master_gold['cas_number'])
@@ -118,10 +118,10 @@ def main():
     # ---------------------------------------------------------
     # 5. Save Cleaned Individual Files (Added utf-8-sig encoding here!)
     # ---------------------------------------------------------
-    ca_clean.to_csv('data_clean/cleaned_california_banned.csv', index=False, encoding='utf-8-sig')
-    tw_clean.to_csv('data_clean/cleaned_taiwan_banned.csv', index=False, encoding='utf-8-sig')
-    eu_clean.to_csv('data_clean/cleaned_eu_banned.csv', index=False, encoding='utf-8-sig')
-    print("Saved 3 cleaned regional lists into data_clean/")
+    ca_clean.to_csv('data_middle/cleaned_california_banned.csv', index=False, encoding='utf-8-sig')
+    tw_clean.to_csv('data_middle/cleaned_taiwan_banned.csv', index=False, encoding='utf-8-sig')
+    eu_clean.to_csv('data_middle/cleaned_eu_banned.csv', index=False, encoding='utf-8-sig')
+    print("Saved 3 cleaned regional lists into data_middle/")
     
     # ---------------------------------------------------------
     # 6. Build the Overarching Regulatory Table
@@ -198,7 +198,7 @@ def main():
     overarching_df = overarching_df.sort_values(by='Gold_Ingredient_Name').reset_index(drop=True)
 
     # Save the final table into data_clean
-    overarching_df.to_csv('data_clean/Overarching_Regulatory_Table.csv', index=False)
+    overarching_df.to_csv('data_match_reference/Overarching_Regulatory_Table.csv', index=False)
     print(f"Success! Overarching table generated with {len(overarching_df)} unique ingredients in data_clean/")
 
 if __name__ == "__main__":

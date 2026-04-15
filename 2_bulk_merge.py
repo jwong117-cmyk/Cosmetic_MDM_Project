@@ -9,7 +9,7 @@ def clean_name(name):
     return re.sub(r'\s+', ' ', clean.strip().lower())
 
 print("1. Loading your Master Database...")
-master_db = pd.read_csv('data_clean/master_db_v1.csv')
+master_db = pd.read_csv('data_middle/master_db_v1.csv')
 
 # ---------------------------------------------------------
 # MERGE 1: EU CosIng Database (Botanicals & Cosmetics)
@@ -91,7 +91,7 @@ except Exception as e:
 # SAVE VERSION 2
 # ---------------------------------------------------------
 print("5. Saving enriched database...")
-master_db.to_csv('data_clean/master_db_v2.csv', index=False)
+master_db.to_csv('data_middle/master_db_v2.csv', index=False)
 
 # Calculate how many CAS numbers are still missing
 missing_count = master_db['cas_number'].isna().sum()
