@@ -1,0 +1,935 @@
+﻿retailer,product_name,ingredient_name,cleaned_ingredient_name,gold_ingredient_name,matched_cas_number,Banned_CA,Banned_TW,Banned_EU
+Sephora,Rhode Glazing Milk,Water/Aqua/Eau,water,Onsen-Sui,,No,No,No
+Sephora,Rhode Glazing Milk,C12-15 Alkyl Benzoate,c12-15 alkyl benzoate,C12-15 Alkyl Benzoate,68411-27-8,No,No,No
+Sephora,Rhode Glazing Milk,Coconut Alkanes,coconut alkanes,Coconut Alkanes,112-40-3,No,No,No
+Sephora,Rhode Glazing Milk,Glycerin,glycerin,Glycerin,56-81-5,No,No,No
+Sephora,Rhode Glazing Milk,Polyglyceryl-3 Oleate,polyglyceryl-3 oleate,Polyglyceryl-3 Oleate,,No,No,No
+Sephora,Rhode Glazing Milk,Polyglyceryl-10 Mono/Dioleate,polyglyceryl-10 mono,Polyglyceryl-10 Mono,,No,No,No
+Sephora,Rhode Glazing Milk,Tocopheryl Acetate,tocopheryl acetate,Tocopheryl Acetate,7695-91-2,No,No,No
+Sephora,Rhode Glazing Milk,Sodium Hyaluronate,sodium hyaluronate,Hydrolyzed Sodium Hyaluronate,,No,No,No
+Sephora,Rhode Glazing Milk,Sodium Hyaluronate Crosspolymer,sodium hyaluronate crosspolymer,Sodium Hyaluronate Crosspolymer,105524-32-1,No,No,No
+Sephora,Rhode Glazing Milk,Hydrolyzed Sodium Hyaluronate,hydrolyzed sodium hyaluronate,Hydrolyzed Sodium Hyaluronate,9067-32-7,No,No,No
+Sephora,Rhode Glazing Milk,Sodium Acetylated Hyaluronate,sodium acetylated hyaluronate,Sodium Acetylated Hyaluronate,158254-23-0,No,No,No
+Sephora,Rhode Glazing Milk,Ceramide NP,ceramide np,Ceramide Np,72968-43-5,No,No,No
+Sephora,Rhode Glazing Milk,Ceramide AP,ceramide ap,Ceramide Ap,100403-19-8,No,No,No
+Sephora,Rhode Glazing Milk,Ceramide EOP,ceramide eop,Ceramide Eop,627881-96-3,No,No,No
+Sephora,Rhode Glazing Milk,Beta-Glucan,beta-glucan,Beta-Glucan,26874-89-5,No,No,No
+Sephora,Rhode Glazing Milk,Copper Gluconate,copper gluconate,Copper Gluconate,527-09-3,No,No,No
+Sephora,Rhode Glazing Milk,Magnesium Aspartate,magnesium aspartate,Magnesium Aspartate,,No,No,No
+Sephora,Rhode Glazing Milk,Oleic Acid,oleic acid,Oleic Acid,112-80-1,No,No,No
+Sephora,Rhode Glazing Milk,Linoleic Acid,linoleic acid,Linoleic Acid,60-33-3,No,No,No
+Sephora,Rhode Glazing Milk,Linolenic Acid,linolenic acid,Linolenic Acid,463-40-1,No,No,No
+Sephora,Rhode Glazing Milk,Xanthan Gum,xanthan gum,Xanthan Gum,11138-66-2,No,No,No
+Sephora,Rhode Glazing Milk,Zinc Gluconate,zinc gluconate,Zinc Gluconate,4468-02-4,No,No,No
+Sephora,Rhode Glazing Milk,Euterpe Oleracea Sterols,euterpe oleracea sterols,Euterpe Oleracea Sterols,,No,No,No
+Sephora,Rhode Glazing Milk,Phosphatidylglycerol,phosphatidylglycerol,Phosphatidylglycerol,,No,No,No
+Sephora,Rhode Glazing Milk,Phytosphingosine,phytosphingosine,Phytosphingosine,554-62-1,No,No,No
+Sephora,Rhode Glazing Milk,Caprylyl Glycol,caprylyl glycol,Caprylyl Glycol,1117-86-8,No,No,No
+Sephora,Rhode Glazing Milk,Cholesterol,cholesterol,Cholesterol,57-88-5,No,No,No
+Sephora,Rhode Glazing Milk,Coco-Caprylate/Caprate,coco-caprylate,Coco-Caprylate,95912-86-0,No,No,No
+Sephora,Rhode Glazing Milk,PEG-7 Glyceryl Cocoate,peg-7 glyceryl cocoate,Peg-7 Glyceryl Cocoate,66105-29-1,No,No,No
+Sephora,Rhode Glazing Milk,Cetyl Hydroxyethylcellulose,cetyl hydroxyethylcellulose,Cetyl Hydroxyethylcellulose,80455-45-4,No,No,No
+Sephora,Rhode Glazing Milk,Carbomer,carbomer,Carbomer,9007-20-9,No,No,No
+Sephora,Rhode Glazing Milk,Sodium Lauroyl Lactylate,sodium lauroyl lactylate,Sodium Lauroyl Lactylate,13557-75-0,No,No,No
+Sephora,Rhode Glazing Milk,Pentylene Glycol,pentylene glycol,Pentylene Glycol,5343-92-0,No,No,No
+Sephora,Rhode Glazing Milk,"1,2-Hexanediol","1,2-hexanediol","1,2-Hexanediol",6920-22-5,No,No,No
+Sephora,Rhode Glazing Milk,Sodium Phytate,sodium phytate,Sodium Phytate,14306-25-3,No,No,No
+Sephora,Rhode Glazing Milk,Phenoxyethanol,phenoxyethanol,Phenoxyethanol,122-99-6,No,No,No
+Sephora,Rhode Glazing Milk,Ethylhexylglycerin,ethylhexylglycerin,Ethylhexylglycerin,70445-33-9,No,No,No
+Sephora,Rhode Glazing Milk,Sodium_Benzoate,sodium_benzoate,Sodium_Benzoate,,No,No,No
+Sephora,Rhode Glazing Milk,Chlorphenesin,chlorphenesin,Chlorphenesin,104-29-0,No,No,No
+Sephora,Rhode Glazing Milk,Citric Acid,citric acid,Citric Acid,77-92-9,No,No,No
+Sephora,Rhode Peptide Lip Treatment,Hydrogenated Polyisobutene,hydrogenated polyisobutene,Hydrogenated Polyisobutene,40921-86-6,No,No,No
+Sephora,Rhode Peptide Lip Treatment,Diisostearyl Malate,diisostearyl malate,Diisostearyl Malate,,No,No,No
+Sephora,Rhode Peptide Lip Treatment,Butyrospermum Parkii (Shea) Butter,butyrospermum parkii butter,Butyrospermum Parkii Butter,194043-92-0,No,No,No
+Sephora,Rhode Peptide Lip Treatment,Polybutene,polybutene,Polybutene,,No,No,No
+Sephora,Rhode Peptide Lip Treatment,Microcrystalline Wax (Cera Microcristallina) (Cire Microcristalline),microcrystalline wax,Microcrystalline Wax,,No,No,No
+Sephora,Rhode Peptide Lip Treatment,Synthetic Wax,synthetic wax,Synthetic Wax,,No,No,No
+Sephora,Rhode Peptide Lip Treatment,Octyldodecanol,octyldodecanol,Octyldodecanol,5333-42-6,No,No,No
+Sephora,Rhode Peptide Lip Treatment,Polyglyceryl-2 Triisostearate,polyglyceryl-2 triisostearate,Polyglyceryl-2 Triisostearate,,No,No,No
+Sephora,Rhode Peptide Lip Treatment,Hydrogenated Poly(C6-14 Olefin),hydrogenated poly,Hydrogenated Poly,,No,No,No
+Sephora,Rhode Peptide Lip Treatment,Tocopherol,tocopherol,Tocopherol,54-28-4,No,No,No
+Sephora,Rhode Peptide Lip Treatment,Tocopheryl Acetate,tocopheryl acetate,Tocopheryl Acetate,7695-91-2,No,No,No
+Sephora,Rhode Peptide Lip Treatment,Tetrahexyldecyl Ascorbate,tetrahexyldecyl ascorbate,Tetrahexyldecyl Ascorbate,183476-82-6,No,No,No
+Sephora,Rhode Peptide Lip Treatment,Palmitoyl Tripeptide-1,palmitoyl tripeptide-1,Palmitoyl Tripeptide-1,147732-56-7,No,No,No
+Sephora,Rhode Peptide Lip Treatment,Orbignya Oleifera Seed Oil,orbignya oleifera seed oil,Orbignya Oleifera Seed Oil,,No,No,No
+Sephora,Rhode Peptide Lip Treatment,Theobroma Grandiflorum Seed Butter,theobroma grandiflorum seed butter,Theobroma Grandiflorum Seed Butter,,No,No,No
+Sephora,Rhode Peptide Lip Treatment,Lactic Acid,lactic acid,Lactic Acid,50-21-5,No,No,No
+Sephora,Rhode Peptide Lip Treatment,Tribehenin,tribehenin,Tribehenin,18641-57-1,No,No,No
+Sephora,Rhode Peptide Lip Treatment,Phytosteryl/Isostearyl/Cetyl/Stearyl/Behenyl Dimer Dilinoleate,phytosteryl,Phytosteryl,,No,No,No
+Sephora,Rhode Peptide Lip Treatment,Ethylhexyl Palmitate,ethylhexyl palmitate,Ethylhexyl Palmitate,29806-73-3,No,No,No
+Sephora,Rhode Peptide Lip Treatment,Sorbitan Isostearate,sorbitan isostearate,Sorbitan Isostearate,71902-01-7,No,No,No
+Sephora,Rhode Peptide Lip Treatment,Synthetic Fluorphlogopite,synthetic fluorphlogopite,Synthetic Fluorphlogopite,12003-38-2,No,No,No
+Sephora,Rhode Peptide Lip Treatment,Disteardimonium Hectorite,disteardimonium hectorite,Disteardimonium Hectorite,97280-96-1,No,No,No
+Sephora,Rhode Peptide Lip Treatment,Titanium Dioxide (Ci 77891),titanium dioxide,Ci 77891,,No,No,No
+Sephora,Rhode Peptide Lip Treatment,Red 28 Lake (Ci 45410),red 28 lake,Red 28 Lake,,No,No,No
+Sephora,Rhode Peptide Lip Treatment,Red 7 (Ci 15850),red 7,Red 7,,No,No,No
+Sephora,Rhode Peptide Lip Treatment,Yellow 5 Lake (Ci 19140),yellow 5 lake,Yellow 5 Lake,,No,No,No
+Sephora,Rhode Peptide Lip Treatment,Blue 1 Lake (Ci 42090),blue 1 lake,Blue 1 Lake,,No,No,No
+Sephora,Biodance Bio-Collagen Real Deep Mask,Water(Aqua),water,Onsen-Sui,,No,No,No
+Sephora,Biodance Bio-Collagen Real Deep Mask,Glycerin,glycerin,Glycerin,56-81-5,No,No,No
+Sephora,Biodance Bio-Collagen Real Deep Mask,Acrylates Copolymer,acrylates copolymer,Acrylates Copolymer,25133-97-5,No,No,No
+Sephora,Biodance Bio-Collagen Real Deep Mask,Niacinamide,niacinamide,Niacinamide,98-92-0,No,No,No
+Sephora,Biodance Bio-Collagen Real Deep Mask,Ceratonia Siliqua (Carob) Gum,ceratonia siliqua gum,Ceratonia Siliqua Gum,,No,No,No
+Sephora,Biodance Bio-Collagen Real Deep Mask,Chondrus Crispus Extract,chondrus crispus extract,Chondrus Crispus,,No,No,No
+Sephora,Biodance Bio-Collagen Real Deep Mask,Dipropylene Glycol,dipropylene glycol,Dipropylene Glycol,110-98-5,No,No,No
+Sephora,Biodance Bio-Collagen Real Deep Mask,Betaine,betaine,Betaine,107-43-7,No,No,No
+Sephora,Biodance Bio-Collagen Real Deep Mask,Algin,algin,Algin,9005-38-3,No,No,No
+Sephora,Biodance Bio-Collagen Real Deep Mask,Agar,agar,Agar,,No,No,No
+Sephora,Biodance Bio-Collagen Real Deep Mask,Hydroxyacetophenone,hydroxyacetophenone,Hydroxyacetophenone,99-93-4,No,No,No
+Sephora,Biodance Bio-Collagen Real Deep Mask,"1,2-Hexanediol","1,2-hexanediol","1,2-Hexanediol",6920-22-5,No,No,No
+Sephora,Biodance Bio-Collagen Real Deep Mask,Potassium Chloride,potassium chloride,Potassium Chloride,,No,No,No
+Sephora,Biodance Bio-Collagen Real Deep Mask,Caprylyl Glycol,caprylyl glycol,Caprylyl Glycol,1117-86-8,No,No,No
+Sephora,Biodance Bio-Collagen Real Deep Mask,Sucrose,sucrose,Sucrose,57-50-1,No,No,No
+Sephora,Biodance Bio-Collagen Real Deep Mask,Allantoin,allantoin,Allantoin,97-59-6,No,No,No
+Sephora,Biodance Bio-Collagen Real Deep Mask,Polyglyceryl-10 Laurate,polyglyceryl-10 laurate,Polyglyceryl-10 Laurate,34406-66-1,No,No,No
+Sephora,Biodance Bio-Collagen Real Deep Mask,Ethylhexylglycerin,ethylhexylglycerin,Ethylhexylglycerin,70445-33-9,No,No,No
+Sephora,Biodance Bio-Collagen Real Deep Mask,Galactomyces Ferment Filtrate,galactomyces ferment filtrate,Galactomyces Ferment Filtrate,,No,No,No
+Sephora,Biodance Bio-Collagen Real Deep Mask,Adenosine,adenosine,Adenosine,58-61-7,No,No,No
+Sephora,Biodance Bio-Collagen Real Deep Mask,Disodium EDTA,disodium edta,Disodium Edta,139-33-3,No,No,No
+Sephora,Biodance Bio-Collagen Real Deep Mask,Pyrus Communis (Pear) Fruit Extract,pyrus communis fruit extract,Pyrus Communis Fruit Extract,,No,No,No
+Sephora,Biodance Bio-Collagen Real Deep Mask,Rosa Damascena Flower Water,rosa damascena flower water,Rosa Damascena Absolute,,No,No,No
+Sephora,Biodance Bio-Collagen Real Deep Mask,Collagen Extract,collagen extract,Collagen Extract,,No,No,No
+Sephora,Biodance Bio-Collagen Real Deep Mask,Iris Florentina Root Extract,iris florentina root extract,Iris Florentina Root Extract,,No,No,No
+Sephora,Biodance Bio-Collagen Real Deep Mask,Cucumis Melo (Melon) Fruit Extract,cucumis melo fruit extract,Cucumis Melo Fruit Extract,,No,No,No
+Sephora,Biodance Bio-Collagen Real Deep Mask,Hedera Helix (Ivy) Leaf/Stem Extract,hedera helix leaf,Hedera Helix Leaf,,No,No,No
+Sephora,Biodance Bio-Collagen Real Deep Mask,Butylene Glycol,butylene glycol,Butylene Glycol,107-88-0,No,No,No
+Sephora,Biodance Bio-Collagen Real Deep Mask,Dipotassium Glycyrrhizate,dipotassium glycyrrhizate,Dipotassium Glycyrrhizate,68797-35-3,No,No,No
+Sephora,Biodance Bio-Collagen Real Deep Mask,Hydrolyzed Hyaluronic Acid,hydrolyzed hyaluronic acid,Hyaluronic Acid,,No,No,No
+Sephora,Biodance Bio-Collagen Real Deep Mask,Lactobacillus Ferment,lactobacillus ferment,Lactobacillus Ferment,1686112-36-6,No,No,No
+Sephora,Biodance Bio-Collagen Real Deep Mask,Bifida Ferment Filtrate,bifida ferment filtrate,Bifida Ferment Filtrate,,No,No,No
+Sephora,Biodance Bio-Collagen Real Deep Mask,Lactobacillus Ferment Lysate,lactobacillus ferment lysate,Lactobacillus Ferment Lysate,,No,No,No
+Sephora,Biodance Bio-Collagen Real Deep Mask,Tocopherol,tocopherol,Tocopherol,54-28-4,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,Aqua (Water),aqua,Aqua,,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,Glycolic Acid,glycolic acid,Glycolic Acid,79-14-1,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,Rosa damascena flower water,rosa damascena flower water,Rosa Damascena Absolute,,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,Centaurea cyanus flower water,centaurea cyanus flower water,Centaurea Cyanus Flower Water,84012-18-0,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,Aloe Barbadensis Leaf Water,aloe barbadensis leaf water,Aloe Barbadensis Leaf Water,,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,Propanediol,propanediol,Propanediol,26264-14-2,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,Glycerin,glycerin,Glycerin,56-81-5,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,Triethanolamine,triethanolamine,Triethanolamine,102-71-6,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,Aminomethyl Propanol,aminomethyl propanol,Aminomethyl Propanol,124-68-5,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,Panax Ginseng Root Extract,panax ginseng root extract,Panax Ginseng Root Extract,84650-12-4,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,Tasmannia Lanceolata Fruit/Leaf Extract,tasmannia lanceolata fruit,Tasmannia Lanceolata Fruit,,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,Aspartic Acid,aspartic acid,Aspartic Acid,56-84-8,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,Alanine,alanine,Alanine,302-72-7,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,Glycine,glycine,Glycine,56-40-6,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,Serine,serine,Serine,302-84-1,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,Valine,valine,Valine,516-06-3,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,Isoleucine,isoleucine,Isoleucine,73-32-5,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,Proline,proline,Proline,609-36-9,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,Threonine,threonine,Threonine,80-68-2,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,Histidine,histidine,Histidine,71-00-1,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,Phenylalanine,phenylalanine,Phenylalanine,150-30-1,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,Glutamic Acid,glutamic acid,Glutamic Acid,56-86-0,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,Arginine,arginine,Arginine,74-79-3,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,PCA,pca,Pca,98-79-3,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,Sodium PCA,sodium pca,Sodium Pca,28874-51-3,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,Sodium Lactate,sodium lactate,Sodium Lactate,72-17-3,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,Fructose,fructose,Fructose,57-48-7,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,Glucose,glucose,Glucose,50-99-7,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,Sucrose,sucrose,Sucrose,57-50-1,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,Urea,urea,Urea,57-13-6,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,Hexyl Nicotinate,hexyl nicotinate,Hexyl Nicotinate,23597-82-2,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,Dextrin,dextrin,Dextrin,9004-53-9,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,Citric Acid,citric acid,Citric Acid,77-92-9,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,Polysorbate 20,polysorbate 20,Polysorbate 20,9005-64-5,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,Gellan Gum,gellan gum,Gellan Gum,,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,Trisodium Ethylenediamine Disuccinate,trisodium ethylenediamine disuccinate,Trisodium Ethylenediamine Disuccinate,20846-91-7,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,Sodium Chloride,sodium chloride,Sodium Chloride,7647-14-5,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,Hexylene Glycol,hexylene glycol,Hexylene Glycol,107-41-5,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,Potassium Sorbate,potassium sorbate,Potassium Sorbate,24634-61-5,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,Sodium Benzoate,sodium benzoate,Sodium Benzoate,532-32-1,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,"1,2-Hexanediol","1,2-hexanediol","1,2-Hexanediol",6920-22-5,No,No,No
+Sephora,The Ordinary Glycolic Acid 7% Toning Solution,Caprylyl Glycol,caprylyl glycol,Caprylyl Glycol,1117-86-8,No,No,No
+Sephora,Tower 28 SOS Daily Rescue Facial Spray,Aqua/Water/Eau,aqua,Aqua,,No,No,No
+Sephora,Tower 28 SOS Daily Rescue Facial Spray,Glycerin,glycerin,Glycerin,56-81-5,No,No,No
+Sephora,Tower 28 SOS Daily Rescue Facial Spray,Cetyl Ethylhexanoate,cetyl ethylhexanoate,Cetyl Ethylhexanoate,59130-69-7,No,No,No
+Sephora,Tower 28 SOS Daily Rescue Facial Spray,Caprylyl Methicone,caprylyl methicone,Caprylyl Methicone,17955-88-3,No,No,No
+Sephora,Tower 28 SOS Daily Rescue Facial Spray,Dipropylene Glycol,dipropylene glycol,Dipropylene Glycol,110-98-5,No,No,No
+Sephora,Tower 28 SOS Daily Rescue Facial Spray,Cetearyl Alcohol,cetearyl alcohol,Cetearyl Alcohol,67762-27-0,No,No,No
+Sephora,Tower 28 SOS Daily Rescue Facial Spray,Behenyl Alcohol,behenyl alcohol,Behenyl Alcohol,661-19-8,No,No,No
+Sephora,Tower 28 SOS Daily Rescue Facial Spray,Polyglyceryl-3 Methylglucose Distearate,polyglyceryl-3 methylglucose distearate,Polyglyceryl-3 Methylglucose Distearate,157175-98-9,No,No,No
+Sephora,Tower 28 SOS Daily Rescue Facial Spray,Silica,silica,Silica,7631-86-9,No,No,No
+Sephora,Tower 28 SOS Daily Rescue Facial Spray,Niacinamide,niacinamide,Niacinamide,98-92-0,No,No,No
+Sephora,Tower 28 SOS Daily Rescue Facial Spray,Ceramide NP,ceramide np,Ceramide Np,72968-43-5,No,No,No
+Sephora,Tower 28 SOS Daily Rescue Facial Spray,Sodium Hyaluronate,sodium hyaluronate,Hydrolyzed Sodium Hyaluronate,,No,No,No
+Sephora,Tower 28 SOS Daily Rescue Facial Spray,Ectoin,ectoin,Ectoin,96702-03-3,No,No,No
+Sephora,Tower 28 SOS Daily Rescue Facial Spray,Lactococcus Ferment,lactococcus ferment,Lactococcus Ferment,,No,No,No
+Sephora,Tower 28 SOS Daily Rescue Facial Spray,Aphanizomenon Flos-aquae Extract,aphanizomenon flos-aquae extract,Aphanizomenon Flos-Aquae Extract,,No,No,No
+Sephora,Tower 28 SOS Daily Rescue Facial Spray,Chondrus Crispus Extract,chondrus crispus extract,Chondrus Crispus,,No,No,No
+Sephora,Tower 28 SOS Daily Rescue Facial Spray,Allantoin,allantoin,Allantoin,97-59-6,No,No,No
+Sephora,Tower 28 SOS Daily Rescue Facial Spray,Oryza Sativa (Rice) Bran Wax,oryza sativa bran wax,Oryza Sativa Bran Wax,,No,No,No
+Sephora,Tower 28 SOS Daily Rescue Facial Spray,Tremella Fuciformis Polysaccharide,tremella fuciformis polysaccharide,Tremella Fuciformis Polysaccharide,778577-37-0,No,No,No
+Sephora,Tower 28 SOS Daily Rescue Facial Spray,Cetearyl Olivate,cetearyl olivate,Cetearyl Olivate,223706-40-9,No,No,No
+Sephora,Tower 28 SOS Daily Rescue Facial Spray,Sorbitan Olivate,sorbitan olivate,Cetearyl Olivate,,No,No,No
+Sephora,Tower 28 SOS Daily Rescue Facial Spray,Hydroxyacetophenone,hydroxyacetophenone,Hydroxyacetophenone,99-93-4,No,No,No
+Sephora,Tower 28 SOS Daily Rescue Facial Spray,Glyceryl Stearate,glyceryl stearate,Glyceryl Stearate,31566-31-1,No,No,No
+Sephora,Tower 28 SOS Daily Rescue Facial Spray,Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer,hydroxyethyl acrylate,Hydroxyethyl Acrylate,,No,No,No
+Sephora,Tower 28 SOS Daily Rescue Facial Spray,Ethylhexyl Palmitate,ethylhexyl palmitate,Ethylhexyl Palmitate,29806-73-3,No,No,No
+Sephora,Tower 28 SOS Daily Rescue Facial Spray,"1,2-Hexanediol","1,2-hexanediol","1,2-Hexanediol",6920-22-5,No,No,No
+Sephora,Tower 28 SOS Daily Rescue Facial Spray,Sodium Phytate,sodium phytate,Sodium Phytate,14306-25-3,No,No,No
+Sephora,Tower 28 SOS Daily Rescue Facial Spray,Tocopherol,tocopherol,Tocopherol,54-28-4,No,No,No
+Sephora,Tower 28 SOS Daily Rescue Facial Spray,Silica Dimethyl Silylate,silica dimethyl silylate,Silica Dimethyl Silylate,68611-44-9,No,No,No
+Sephora,Tower 28 SOS Daily Rescue Facial Spray,Caprylyl Glycol,caprylyl glycol,Caprylyl Glycol,1117-86-8,No,No,No
+Sephora,Tower 28 SOS Daily Rescue Facial Spray,Butylene Glycol,butylene glycol,Butylene Glycol,107-88-0,No,No,No
+Sephora,Tower 28 SOS Daily Rescue Facial Spray,Potassium Sorbate,potassium sorbate,Potassium Sorbate,24634-61-5,No,No,No
+Sephora,Tower 28 SOS Daily Rescue Facial Spray,Hexylene Glycol,hexylene glycol,Hexylene Glycol,107-41-5,No,No,No
+Sephora,Tower 28 SOS Daily Rescue Facial Spray,Sodium Benzoate,sodium benzoate,Sodium Benzoate,532-32-1,No,No,No
+Sephora,Tower 28 SOS Daily Rescue Facial Spray,Ethylhexylglycerin,ethylhexylglycerin,Ethylhexylglycerin,70445-33-9,No,No,No
+Sephora,Tower 28 SOS Daily Rescue Facial Spray,Phenoxyethanol,phenoxyethanol,Phenoxyethanol,122-99-6,No,No,No
+Sephora,Touchland Power Mist Hydrating Hand Sanitizer,Alcohol,alcohol,Alcohol,64-17-5,No,No,No
+Sephora,Touchland Power Mist Hydrating Hand Sanitizer,Water,water,Onsen-Sui,,No,No,No
+Sephora,Touchland Power Mist Hydrating Hand Sanitizer,Aloe Barbadensis Leaf Juice,aloe barbadensis leaf juice,Aloe Barbadensis Leaf Extract,,No,No,No
+Sephora,Touchland Power Mist Hydrating Hand Sanitizer,Leuconostoc/Radish Root Ferment Lysate Filtrate,leuconostoc,Leuconostoc,,No,No,No
+Sephora,Touchland Power Mist Hydrating Hand Sanitizer,Glycereth-26,glycereth-26,Glycereth-26,31694-55-0,No,No,No
+Sephora,Touchland Power Mist Hydrating Hand Sanitizer,Citrus Limon (Lemon) Peel Oil,citrus limon peel oil,Citrus Limon Peel Oil,8008-56-8,No,No,No
+Sephora,Touchland Power Mist Hydrating Hand Sanitizer,Citrus Aurantifolia (Lime) Oil,citrus aurantifolia oil,Citrus Aurantifolia Oil,,No,No,No
+Sephora,Touchland Power Mist Hydrating Hand Sanitizer,Fragrance,fragrance,Fragrance,,No,No,No
+Sephora,Touchland Power Mist Hydrating Hand Sanitizer,Hexyl Cinnamal,hexyl cinnamal,Hexyl Cinnamal,101-86-0,No,No,No
+Sephora,Touchland Power Mist Hydrating Hand Sanitizer,Geraniol,geraniol,Geraniol,106-24-1,No,No,No
+Sephora,Touchland Power Mist Hydrating Hand Sanitizer,Alpha-Isomethyl Ionone,alpha-isomethyl ionone,Alpha-Isomethyl Ionone,127-51-5,No,No,No
+Sephora,Touchland Power Mist Hydrating Hand Sanitizer,Linalool,linalool,Linalool,78-70-6,No,No,No
+Sephora,Summer Fridays Lip Butter Balm,Phytosteryl/Isostearyl/Cetyl/Stearyl/Behenyl Dimer Dilinoleate,phytosteryl,Phytosteryl,,No,No,No
+Sephora,Summer Fridays Lip Butter Balm,Diisostearyl Malate,diisostearyl malate,Diisostearyl Malate,,No,No,No
+Sephora,Summer Fridays Lip Butter Balm,Hydrogenated Polyisobutene,hydrogenated polyisobutene,Hydrogenated Polyisobutene,40921-86-6,No,No,No
+Sephora,Summer Fridays Lip Butter Balm,Polybutene,polybutene,Polybutene,,No,No,No
+Sephora,Summer Fridays Lip Butter Balm,Hydrogenated Poly (C6-14 Olefin),hydrogenated poly,Hydrogenated Poly,,No,No,No
+Sephora,Summer Fridays Lip Butter Balm,Butyrospermum Parkii (Shea) Butter,butyrospermum parkii butter,Butyrospermum Parkii Butter,194043-92-0,No,No,No
+Sephora,Summer Fridays Lip Butter Balm,Microcrystalline Wax/Cera Microcristallina/Cire microcristalline,microcrystalline wax,Microcrystalline Wax,,No,No,No
+Sephora,Summer Fridays Lip Butter Balm,Octyldodecanol,octyldodecanol,Octyldodecanol,5333-42-6,No,No,No
+Sephora,Summer Fridays Lip Butter Balm,Synthetic Wax,synthetic wax,Synthetic Wax,,No,No,No
+Sephora,Summer Fridays Lip Butter Balm,Disteardimonium Hectorite,disteardimonium hectorite,Disteardimonium Hectorite,97280-96-1,No,No,No
+Sephora,Summer Fridays Lip Butter Balm,Astrocaryum Murumuru Seed Butter,astrocaryum murumuru seed butter,Astrocaryum Murumuru Seed Butter,,No,No,No
+Sephora,Summer Fridays Lip Butter Balm,Sodium Hyaluronate,sodium hyaluronate,Hydrolyzed Sodium Hyaluronate,,No,No,No
+Sephora,Summer Fridays Lip Butter Balm,Tocopherol,tocopherol,Tocopherol,54-28-4,No,No,No
+Sephora,Summer Fridays Lip Butter Balm,Propylene Carbonate,propylene carbonate,Propylene Carbonate,,No,No,No
+Sephora,Summer Fridays Lip Butter Balm,Polyglyceryl-2 Diisostearate,polyglyceryl-2 diisostearate,Polyglyceryl-2 Diisostearate,,No,No,No
+Sephora,Summer Fridays Lip Butter Balm,Aluminum Hydroxide,aluminum hydroxide,Aluminum Hydroxide,21645-51-2,No,No,No
+Sephora,Summer Fridays Lip Butter Balm,Fragrance/Parfum,fragrance,Fragrance,,No,No,No
+Sephora,Summer Fridays Lip Butter Balm,Mica,mica,Mica,12001-26-2,No,No,No
+Sephora,Summer Fridays Lip Butter Balm,BHT,bht,Bht,128-37-0,No,No,No
+Sephora,Summer Fridays Lip Butter Balm,Benzyl Alcohol,benzyl alcohol,Benzyl Alcohol,100-51-6,No,No,No
+Sephora,Summer Fridays Lip Butter Balm,Benzyl Benzoate,benzyl benzoate,Benzyl Benzoate,120-51-4,No,No,No
+Sephora,Summer Fridays Lip Butter Balm,Red 6 (CI 15850),red 6,Red 6,,No,No,No
+Sephora,Summer Fridays Lip Butter Balm,Red 28 Lake (CI 45410),red 28 lake,Red 28 Lake,,No,No,No
+Sephora,Summer Fridays Lip Butter Balm,Titanium Dioxide (CI 77891),titanium dioxide,Ci 77891,,No,No,No
+Sephora,The Ordinary Niacinamide 10% + Zinc 1%,Aqua (Water),aqua,Aqua,,No,No,No
+Sephora,The Ordinary Niacinamide 10% + Zinc 1%,Niacinamide,niacinamide,Niacinamide,98-92-0,No,No,No
+Sephora,The Ordinary Niacinamide 10% + Zinc 1%,Pentylene Glycol,pentylene glycol,Pentylene Glycol,5343-92-0,No,No,No
+Sephora,The Ordinary Niacinamide 10% + Zinc 1%,Zinc PCA,zinc pca,Zinc Pca,68107-75-5,No,No,No
+Sephora,The Ordinary Niacinamide 10% + Zinc 1%,Dimethyl Isosorbide,dimethyl isosorbide,Dimethyl Isosorbide,5306-85-4,No,No,No
+Sephora,The Ordinary Niacinamide 10% + Zinc 1%,Tamarindus Indica Seed Gum,tamarindus indica seed gum,Tamarindus Indica Seed Gum,84961-62-6,No,No,No
+Sephora,The Ordinary Niacinamide 10% + Zinc 1%,Xanthan Gum,xanthan gum,Xanthan Gum,11138-66-2,No,No,No
+Sephora,The Ordinary Niacinamide 10% + Zinc 1%,Isoceteth-20,isoceteth-20,Isoceteth-20,69364-63-2,No,No,No
+Sephora,The Ordinary Niacinamide 10% + Zinc 1%,Ethoxydiglycol,ethoxydiglycol,Ethoxydiglycol,111-90-0,No,No,No
+Sephora,The Ordinary Niacinamide 10% + Zinc 1%,Phenoxyethanol,phenoxyethanol,Phenoxyethanol,122-99-6,No,No,No
+Sephora,The Ordinary Niacinamide 10% + Zinc 1%,Chlorphenesin,chlorphenesin,Chlorphenesin,104-29-0,No,No,No
+Sephora,Sephora Collection Blackhead Peel-Off Mask,Alcohol Denat.,alcohol denat.,Alcohol,,No,No,No
+Sephora,Sephora Collection Blackhead Peel-Off Mask,PVP,pvp,Pvp,9003-39-8,No,No,No
+Sephora,Sephora Collection Blackhead Peel-Off Mask,VP/VA Copolymer,vp,Vp,,No,No,No
+Sephora,Sephora Collection Blackhead Peel-Off Mask,Aqua (Water),aqua,Aqua,,No,No,No
+Sephora,Sephora Collection Blackhead Peel-Off Mask,CI 77499 (Iron Oxides),ci 77499,Ci 77499,12227-89-3,No,No,No
+Sephora,Sephora Collection Blackhead Peel-Off Mask,Parfum (Fragrance),parfum,Parfum,,No,No,No
+Sephora,Sephora Collection Blackhead Peel-Off Mask,Glycerin,glycerin,Glycerin,56-81-5,No,No,No
+Sephora,Sephora Collection Blackhead Peel-Off Mask,Charcoal Powder,charcoal powder,Charcoal Powder,,No,No,No
+Sephora,Sephora Collection Blackhead Peel-Off Mask,Caprylic/Capric Triglyceride,caprylic,Caprylic,,No,No,No
+Sephora,Sephora Collection Blackhead Peel-Off Mask,Epilobium Fleischeri Extract,epilobium fleischeri extract,Epilobium Fleischeri Extract,,No,No,No
+Sephora,Sephora Collection Blackhead Peel-Off Mask,Pistacia Lentiscus (Mastic) Gum,pistacia lentiscus gum,Pistacia Lentiscus Gum,61789-92-2,No,No,No
+Sephora,Sephora Collection Blackhead Peel-Off Mask,Hydrogenated Lecithin,hydrogenated lecithin,Hydrogenated Lecithin,92128-87-5,No,No,No
+Sephora,Sephora Collection Blackhead Peel-Off Mask,Phenethyl Alcohol,phenethyl alcohol,Phenethyl Alcohol,60-12-8,No,No,No
+Sephora,Sephora Collection Blackhead Peel-Off Mask,Dipotassium Glycyrrhizate,dipotassium glycyrrhizate,Dipotassium Glycyrrhizate,68797-35-3,No,No,No
+Sephora,Sephora Collection Blackhead Peel-Off Mask,Citric Acid,citric acid,Citric Acid,77-92-9,No,No,No
+Sephora,Sephora Collection Blackhead Peel-Off Mask,Ethylhexylglycerin,ethylhexylglycerin,Ethylhexylglycerin,70445-33-9,No,No,No
+Sephora,Sephora Collection Blackhead Peel-Off Mask,Potassium SorbateCI 77499,potassium sorbateci 77499,Potassium Sorbateci 77499,,No,No,No
+Sephora,Sephora Collection Blackhead Peel-Off Mask,Iron Oxides,iron oxides,Iron Oxides,1332-37-2,No,No,No
+YesStyle,Dr. Althea 345 Relief Cream,Aqua (Water),aqua,Aqua,,No,No,No
+YesStyle,Dr. Althea 345 Relief Cream,Melaleuca Alternifolia (Tea Tree) Leaf Water,melaleuca alternifolia leaf water,Melaleuca Alternifolia Leaf Extract,,No,No,No
+YesStyle,Dr. Althea 345 Relief Cream,Propanediol,propanediol,Propanediol,26264-14-2,No,No,No
+YesStyle,Dr. Althea 345 Relief Cream,Glycerin,glycerin,Glycerin,56-81-5,No,No,No
+YesStyle,Dr. Althea 345 Relief Cream,"1,2-Hexanediol","1,2-hexanediol","1,2-Hexanediol",6920-22-5,No,No,No
+YesStyle,Dr. Althea 345 Relief Cream,Hydrogenated Polydecene,hydrogenated polydecene,Hydrogenated Polydecene,68037-01-4,No,No,No
+YesStyle,Dr. Althea 345 Relief Cream,Vinyl Dimethicone,vinyl dimethicone,Vinyl Dimethicone,,No,No,No
+YesStyle,Dr. Althea 345 Relief Cream,C14-22 Alcohols,c14-22 alcohols,C14-22 Alcohols,68002-95-9,No,No,No
+YesStyle,Dr. Althea 345 Relief Cream,Niacinamide,niacinamide,Niacinamide,98-92-0,No,No,No
+YesStyle,Dr. Althea 345 Relief Cream,Caprylic/Capric Triglyceride,caprylic,Caprylic,,No,No,No
+YesStyle,Dr. Althea 345 Relief Cream,Panthenol,panthenol,Panthenol,81-13-0,No,No,No
+YesStyle,Dr. Althea 345 Relief Cream,Dicaprylyl Carbonate,dicaprylyl carbonate,Dicaprylyl Carbonate,1680-31-5,No,No,No
+YesStyle,Dr. Althea 345 Relief Cream,Butylene Glycol,butylene glycol,Butylene Glycol,107-88-0,No,No,No
+YesStyle,Dr. Althea 345 Relief Cream,Ammonium Acryloyldimethyltaurate/VP Copolymer,ammonium acryloyldimethyltaurate,Ammonium Acryloyldimethyltaurate,,No,No,No
+YesStyle,Dr. Althea 345 Relief Cream,Caprylyl Methicone,caprylyl methicone,Caprylyl Methicone,17955-88-3,No,No,No
+YesStyle,Dr. Althea 345 Relief Cream,Polymethylsilsesquioxane,polymethylsilsesquioxane,Polymethylsilsesquioxane,68554-70-1,No,No,No
+YesStyle,Dr. Althea 345 Relief Cream,C12-20 Alkyl Glucoside,c12-20 alkyl glucoside,C12-20 Alkyl Glucoside,,No,No,No
+YesStyle,Dr. Althea 345 Relief Cream,Hydroxyacetophenone,hydroxyacetophenone,Hydroxyacetophenone,99-93-4,No,No,No
+YesStyle,Dr. Althea 345 Relief Cream,Acrylates/C10-30 Alkyl Acrylate Crosspolymer,acrylates,Acrylates,,No,No,No
+YesStyle,Dr. Althea 345 Relief Cream,Polyquaternium-51,polyquaternium-51,Polyquaternium-51,125275-25-4,No,No,No
+YesStyle,Dr. Althea 345 Relief Cream,Ethylhexylglycerin,ethylhexylglycerin,Ethylhexylglycerin,70445-33-9,No,No,No
+YesStyle,Dr. Althea 345 Relief Cream,Tromethamine,tromethamine,Tromethamine,77-86-1,No,No,No
+YesStyle,Dr. Althea 345 Relief Cream,Sodium Hyaluronate,sodium hyaluronate,Hydrolyzed Sodium Hyaluronate,,No,No,No
+YesStyle,Dr. Althea 345 Relief Cream,Sodium Stearoyl Glutamate,sodium stearoyl glutamate,Sodium Stearoyl Glutamate,38517-23-6,No,No,No
+YesStyle,Dr. Althea 345 Relief Cream,Coptis Japonica Root Extract,coptis japonica root extract,Coptis Japonica Root Extract,223748-66-1,No,No,No
+YesStyle,Dr. Althea 345 Relief Cream,Centella Asiatica Leaf Water,centella asiatica leaf water,Centella Asiatica Leaf Water,,No,No,No
+YesStyle,Dr. Althea 345 Relief Cream,Beta-Glucan,beta-glucan,Beta-Glucan,26874-89-5,No,No,No
+YesStyle,Dr. Althea 345 Relief Cream,Resveratrol,resveratrol,Resveratrol,501-36-0,No,No,No
+YesStyle,Dr. Althea 345 Relief Cream,Hydrolyzed Hyaluronic Acid,hydrolyzed hyaluronic acid,Hyaluronic Acid,,No,No,No
+YesStyle,Dr. Althea 345 Relief Cream,Camellia Sinensis Leaf Water,camellia sinensis leaf water,Camellia Sinensis Leaf Water,,No,No,No
+YesStyle,Dr. Althea 345 Relief Cream,Tocopherol,tocopherol,Tocopherol,54-28-4,No,No,No
+YesStyle,Dr. Althea 345 Relief Cream,Madecassoside,madecassoside,Madecassoside,34540-22-2,No,No,No
+YesStyle,Dr. Althea 345 Relief Cream,Sodium DNA,sodium dna,Sodium Dna,,No,No,No
+YesStyle,Dr. Althea 345 Relief Cream,Centella Asiatica Extract,centella asiatica extract,Centella Asiatica Extract,84696-21-9,No,No,No
+YesStyle,Dr. Althea 345 Relief Cream,Ceramide NP,ceramide np,Ceramide Np,72968-43-5,No,No,No
+YesStyle,Dr. Althea 345 Relief Cream,Tannic Acid,tannic acid,Tannic Acid,,No,No,No
+YesStyle,Dr. Althea 345 Relief Cream,Disodium EDTA,disodium edta,Disodium Edta,139-33-3,No,No,No
+YesStyle,Dr. Althea 345 Relief Cream,Sodium Phytate,sodium phytate,Sodium Phytate,14306-25-3,No,No,No
+YesStyle,Celimax Vita-A Retinal,Water,water,Onsen-Sui,,No,No,No
+YesStyle,Celimax Vita-A Retinal,Butylene Glycol,butylene glycol,Butylene Glycol,107-88-0,No,No,No
+YesStyle,Celimax Vita-A Retinal,Glycerin,glycerin,Glycerin,56-81-5,No,No,No
+YesStyle,Celimax Vita-A Retinal,Caprylic/Capric Triglyceride,caprylic,Caprylic,,No,No,No
+YesStyle,Celimax Vita-A Retinal,Cetearyl Alcohol,cetearyl alcohol,Cetearyl Alcohol,67762-27-0,No,No,No
+YesStyle,Celimax Vita-A Retinal,Niacinamide,niacinamide,Niacinamide,98-92-0,No,No,No
+YesStyle,Celimax Vita-A Retinal,Diisostearyl Malate,diisostearyl malate,Diisostearyl Malate,,No,No,No
+YesStyle,Celimax Vita-A Retinal,"1,2-Hexanediol","1,2-hexanediol","1,2-Hexanediol",6920-22-5,No,No,No
+YesStyle,Celimax Vita-A Retinal,Polypropylsilsesquioxane,polypropylsilsesquioxane,Polypropylsilsesquioxane,36088-62-7,No,No,No
+YesStyle,Celimax Vita-A Retinal,Panthenol,panthenol,Panthenol,81-13-0,No,No,No
+YesStyle,Celimax Vita-A Retinal,Cetearyl Olivate,cetearyl olivate,Cetearyl Olivate,223706-40-9,No,No,No
+YesStyle,Celimax Vita-A Retinal,Cetearyl Glucoside,cetearyl glucoside,Cetearyl Glucoside,246159-33-1,No,No,No
+YesStyle,Celimax Vita-A Retinal,Sorbitan Olivate,sorbitan olivate,Cetearyl Olivate,,No,No,No
+YesStyle,Celimax Vita-A Retinal,Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer,hydroxyethyl acrylate,Hydroxyethyl Acrylate,,No,No,No
+YesStyle,Celimax Vita-A Retinal,Lecithin,lecithin,Lecithin,8002-43-5,No,No,No
+YesStyle,Celimax Vita-A Retinal,Carbomer,carbomer,Carbomer,9007-20-9,No,No,No
+YesStyle,Celimax Vita-A Retinal,Arginine,arginine,Arginine,74-79-3,No,No,No
+YesStyle,Celimax Vita-A Retinal,Dimethicone/Vinyl Dimethicone Crosspolymer,dimethicone,Dimethicone,9006-65-9,No,No,No
+YesStyle,Celimax Vita-A Retinal,Tocopherol,tocopherol,Tocopherol,54-28-4,No,No,No
+YesStyle,Celimax Vita-A Retinal,Retinal,retinal,Retinal,116-31-4,No,No,No
+YesStyle,Celimax Vita-A Retinal,Xanthan Gum,xanthan gum,Xanthan Gum,11138-66-2,No,No,No
+YesStyle,Celimax Vita-A Retinal,Ethylhexylglycerin,ethylhexylglycerin,Ethylhexylglycerin,70445-33-9,No,No,No
+YesStyle,Celimax Vita-A Retinal,Adenosine,adenosine,Adenosine,58-61-7,No,No,No
+YesStyle,Celimax Vita-A Retinal,Sorbitan Isostearate,sorbitan isostearate,Sorbitan Isostearate,71902-01-7,No,No,No
+YesStyle,Celimax Vita-A Retinal,Sodium Lactate,sodium lactate,Sodium Lactate,72-17-3,No,No,No
+YesStyle,Celimax Vita-A Retinal,Hydrolyzed Sponge,hydrolyzed sponge,Hydrolyzed Sponge,,No,No,No
+YesStyle,Celimax Vita-A Retinal,Disodium EDTA,disodium edta,Disodium Edta,139-33-3,No,No,No
+YesStyle,Celimax Vita-A Retinal,Polysorbate 20,polysorbate 20,Polysorbate 20,9005-64-5,No,No,No
+YesStyle,Celimax Vita-A Retinal,Ascorbic Acid,ascorbic acid,Ascorbic Acid,50-81-7,No,No,No
+YesStyle,Celimax Vita-A Retinal,Glucose,glucose,Glucose,50-99-7,No,No,No
+YesStyle,Celimax Vita-A Retinal,Palmitoyl Tripeptide-1,palmitoyl tripeptide-1,Palmitoyl Tripeptide-1,147732-56-7,No,No,No
+YesStyle,Celimax Vita-A Retinal,Palmitoyl Tetrapeptide-7,palmitoyl tetrapeptide-7,Palmitoyl Tetrapeptide-7,221227-05-0,No,No,No
+YesStyle,SKIN1004 Hyalu-Cica Water-Fit Sun Serum,Avobenzone,avobenzone,Avobenzone,,No,No,No
+YesStyle,SKIN1004 Hyalu-Cica Water-Fit Sun Serum,Homosalate,homosalate,Homosalate,118-56-9,No,No,No
+YesStyle,SKIN1004 Hyalu-Cica Water-Fit Sun Serum,Octisalate,octisalate,Octisalate,,No,No,No
+YesStyle,SKIN1004 Hyalu-Cica Water-Fit Sun Serum,Octocrylene,octocrylene,Octocrylene,6197-30-4,No,No,No
+YesStyle,SKIN1004 Hyalu-Cica Water-Fit Sun Serum,Water,water,Onsen-Sui,,No,No,No
+YesStyle,SKIN1004 Hyalu-Cica Water-Fit Sun Serum,Butyloctyl Salicylate,butyloctyl salicylate,Butyloctyl Salicylate,190085-41-7,No,No,No
+YesStyle,SKIN1004 Hyalu-Cica Water-Fit Sun Serum,Propanediol,propanediol,Propanediol,26264-14-2,No,No,No
+YesStyle,SKIN1004 Hyalu-Cica Water-Fit Sun Serum,Polymethylsilsesquioxane,polymethylsilsesquioxane,Polymethylsilsesquioxane,68554-70-1,No,No,No
+YesStyle,SKIN1004 Hyalu-Cica Water-Fit Sun Serum,C20-22 Alkyl Phosphate,c20-22 alkyl phosphate,C20-22 Alkyl Phosphate,,No,No,No
+YesStyle,SKIN1004 Hyalu-Cica Water-Fit Sun Serum,C20-22 Alcohols,c20-22 alcohols,C20-22 Alcohols,,No,No,No
+YesStyle,SKIN1004 Hyalu-Cica Water-Fit Sun Serum,Panthenol,panthenol,Panthenol,81-13-0,No,No,No
+YesStyle,SKIN1004 Hyalu-Cica Water-Fit Sun Serum,"1,2-Hexanediol","1,2-hexanediol","1,2-Hexanediol",6920-22-5,No,No,No
+YesStyle,SKIN1004 Hyalu-Cica Water-Fit Sun Serum,Caprylyl Methicone,caprylyl methicone,Caprylyl Methicone,17955-88-3,No,No,No
+YesStyle,SKIN1004 Hyalu-Cica Water-Fit Sun Serum,Pentylene Glycol,pentylene glycol,Pentylene Glycol,5343-92-0,No,No,No
+YesStyle,SKIN1004 Hyalu-Cica Water-Fit Sun Serum,Dimethicone/Vinyl Dimethicone Crosspolymer,dimethicone,Dimethicone,9006-65-9,No,No,No
+YesStyle,SKIN1004 Hyalu-Cica Water-Fit Sun Serum,Cetyl Alcohol,cetyl alcohol,Cetyl Alcohol,36653-82-4,No,No,No
+YesStyle,SKIN1004 Hyalu-Cica Water-Fit Sun Serum,VP/Eicosene Copolymer,vp,Vp,,No,No,No
+YesStyle,SKIN1004 Hyalu-Cica Water-Fit Sun Serum,Glyceryl Stearate,glyceryl stearate,Glyceryl Stearate,31566-31-1,No,No,No
+YesStyle,SKIN1004 Hyalu-Cica Water-Fit Sun Serum,Tromethamine,tromethamine,Tromethamine,77-86-1,No,No,No
+YesStyle,SKIN1004 Hyalu-Cica Water-Fit Sun Serum,Polyacrylate Crosspolymer-6,polyacrylate crosspolymer-6,Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer,,No,No,No
+YesStyle,SKIN1004 Hyalu-Cica Water-Fit Sun Serum,Ammonium Acryloyldimethyltaurate/VP Copolymer,ammonium acryloyldimethyltaurate,Ammonium Acryloyldimethyltaurate,,No,No,No
+YesStyle,SKIN1004 Hyalu-Cica Water-Fit Sun Serum,Silica,silica,Silica,7631-86-9,No,No,No
+YesStyle,SKIN1004 Hyalu-Cica Water-Fit Sun Serum,Butylene Glycol,butylene glycol,Butylene Glycol,107-88-0,No,No,No
+YesStyle,SKIN1004 Hyalu-Cica Water-Fit Sun Serum,Centella Asiatica Extract,centella asiatica extract,Centella Asiatica Extract,84696-21-9,No,No,No
+YesStyle,SKIN1004 Hyalu-Cica Water-Fit Sun Serum,Ethylhexylglycerin,ethylhexylglycerin,Ethylhexylglycerin,70445-33-9,No,No,No
+YesStyle,SKIN1004 Hyalu-Cica Water-Fit Sun Serum,Hydrolyzed Sodium Hyaluronate,hydrolyzed sodium hyaluronate,Hydrolyzed Sodium Hyaluronate,9067-32-7,No,No,No
+YesStyle,SKIN1004 Hyalu-Cica Water-Fit Sun Serum,Sodium Hyaluronate,sodium hyaluronate,Hydrolyzed Sodium Hyaluronate,,No,No,No
+YesStyle,SKIN1004 Hyalu-Cica Water-Fit Sun Serum,Tocopherol,tocopherol,Tocopherol,54-28-4,No,No,No
+YesStyle,SKIN1004 Hyalu-Cica Water-Fit Sun Serum,Glycerin,glycerin,Glycerin,56-81-5,No,No,No
+YesStyle,SKIN1004 Hyalu-Cica Water-Fit Sun Serum,Portulaca Oleracea Extract,portulaca oleracea extract,Portulaca Oleracea Extract,90083-07-1,No,No,No
+YesStyle,SKIN1004 Hyalu-Cica Water-Fit Sun Serum,Camellia Sinensis Leaf Extract,camellia sinensis leaf extract,Camellia Sinensis Leaf Extract,84650-60-2,No,No,No
+YesStyle,SKIN1004 Hyalu-Cica Water-Fit Sun Serum,Hyaluronic Acid,hyaluronic acid,Hyaluronic Acid,9004-61-9,No,No,No
+YesStyle,SKIN1004 Hyalu-Cica Water-Fit Sun Serum,Oryza Sativa (Rice) Extract,oryza sativa extract,Oryza Sativa Extract,,No,No,No
+YesStyle,SKIN1004 Hyalu-Cica Water-Fit Sun Serum,Avena Sativa (Oat) Meal Extract,avena sativa meal extract,Avena Sativa Meal Extract,,No,No,No
+YesStyle,SKIN1004 Hyalu-Cica Water-Fit Sun Serum,Glycine Max (Soybean) Seed Extract,glycine max seed extract,Glycine Max Seed Extract,,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,Water,water,Onsen-Sui,,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,Dibutyl Adipate,dibutyl adipate,Dibutyl Adipate,105-99-7,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,Propanediol,propanediol,Propanediol,26264-14-2,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,Diethylamino Hydroxybenzoyl Hexyl Benzoate,diethylamino hydroxybenzoyl hexyl benzoate,Diethylamino Hydroxybenzoyl Hexyl Benzoate,302776-68-7,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,Polymethylsilsesquioxane,polymethylsilsesquioxane,Polymethylsilsesquioxane,68554-70-1,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,Ethylhexyl Triazone,ethylhexyl triazone,Ethylhexyl Triazone,88122-99-0,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,Niacinamide,niacinamide,Niacinamide,98-92-0,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,Methylene Bis-Benzotriazolyl Tetramethylbutylphenol,methylene bis-benzotriazolyl tetramethylbutylphenol,Methylene Bis-Benzotriazolyl Tetramethylbutylphenol,103597-45-1,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,Coco-Caprylate/Caprate,coco-caprylate,Coco-Caprylate,95912-86-0,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,Caprylyl Methicone,caprylyl methicone,Caprylyl Methicone,17955-88-3,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,Diethylhexyl Butamido Triazone,diethylhexyl butamido triazone,Diethylhexyl Butamido Triazone,154702-15-5,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,Glycerin,glycerin,Glycerin,56-81-5,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,"1,2-Hexanediol","1,2-hexanediol","1,2-Hexanediol",6920-22-5,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,Butylene Glycol,butylene glycol,Butylene Glycol,107-88-0,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,Pentylene Glycol,pentylene glycol,Pentylene Glycol,5343-92-0,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,Behenyl Alcohol,behenyl alcohol,Behenyl Alcohol,661-19-8,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,Poly C10-30 Alkyl Acrylate,poly c10-30 alkyl acrylate,Poly C10-30 Alkyl Acrylate,,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,Polyglyceryl-3 Methylglucose Distearate,polyglyceryl-3 methylglucose distearate,Polyglyceryl-3 Methylglucose Distearate,157175-98-9,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,Decyl Glucoside,decyl glucoside,Decyl Glucoside,54549-25-6,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,Oryza Sativa (Rice) Extract,oryza sativa extract,Oryza Sativa Extract,,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,Tromethamine,tromethamine,Tromethamine,77-86-1,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,Carbomer,carbomer,Carbomer,9007-20-9,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,Acrylates/C10-30 Alkyl Acrylate Crosspolymer,acrylates,Acrylates,,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,Sodium Stearoyl Glutamate,sodium stearoyl glutamate,Sodium Stearoyl Glutamate,38517-23-6,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,Polyacrylate Crosspolymer-6,polyacrylate crosspolymer-6,Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer,,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,Ethylhexylglycerin,ethylhexylglycerin,Ethylhexylglycerin,70445-33-9,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,Adenosine,adenosine,Adenosine,58-61-7,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,Xanthan Gum,xanthan gum,Xanthan Gum,11138-66-2,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,T-Butyl Alcohol,t-butyl alcohol,T-Butyl Alcohol,75-65-0,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,Tocopherol,tocopherol,Tocopherol,54-28-4,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,Oryza Sativa (Rice) Germ Extract,oryza sativa germ extract,Oryza Sativa Germ Extract,,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,Camellia Sinensis Leaf Extract,camellia sinensis leaf extract,Camellia Sinensis Leaf Extract,84650-60-2,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,Lactobacillus/Rice Ferment,lactobacillus,Lactobacillus,,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,Lactobacillus/Pumpkin Ferment Extract,lactobacillus,Lactobacillus,,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,Monascus/Rice Ferment,monascus,Monascus,,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,Bacillus/Soybean Ferment Extract,bacillus,Bacillus,,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,Saccharum Officinarum (Sugarcane) Extract,saccharum officinarum extract,Saccharum Officinarum Extract,91722-22-4,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,Aspergillus Ferment,aspergillus ferment,Aspergillus Ferment,,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,Macrocystis Pyrifera (Kelp) Extract,macrocystis pyrifera extract,Macrocystis Pyrifera Extract,,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,Cocos Nucifera (Coconut) Fruit Extract,cocos nucifera fruit extract,Cocos Nucifera Fruit Extract,8001-31-8,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,Panax Ginseng Root Extract,panax ginseng root extract,Panax Ginseng Root Extract,84650-12-4,No,No,No
+YesStyle,Beauty of Joseon Relief Sun,Saccharomyces/Rice Ferment Filtrate,saccharomyces,Saccharomyces,,No,No,No
+YesStyle,Purito Wonder Releaf Centella Cream,Water,water,Onsen-Sui,,No,No,No
+YesStyle,Purito Wonder Releaf Centella Cream,Panthenol,panthenol,Panthenol,81-13-0,No,No,No
+YesStyle,Purito Wonder Releaf Centella Cream,Squalane,squalane,Squalane,111-01-3,No,No,No
+YesStyle,Purito Wonder Releaf Centella Cream,Butylene Glycol,butylene glycol,Butylene Glycol,107-88-0,No,No,No
+YesStyle,Purito Wonder Releaf Centella Cream,"1,2-Hexanediol","1,2-hexanediol","1,2-Hexanediol",6920-22-5,No,No,No
+YesStyle,Purito Wonder Releaf Centella Cream,Niacinamide,niacinamide,Niacinamide,98-92-0,No,No,No
+YesStyle,Purito Wonder Releaf Centella Cream,Bambusa Vulgaris Extract,bambusa vulgaris extract,Bambusa Vulgaris Extract,,No,No,No
+YesStyle,Purito Wonder Releaf Centella Cream,Hydrolyzed Jojoba Esters,hydrolyzed jojoba esters,Hydrolyzed Jojoba Esters,,No,No,No
+YesStyle,Purito Wonder Releaf Centella Cream,Acrylates/C10-30 Alkyl Acrylate Crosspolymer,acrylates,Acrylates,,No,No,No
+YesStyle,Purito Wonder Releaf Centella Cream,Ammonium Acryloyldimethyltaurate/VP Copolymer,ammonium acryloyldimethyltaurate,Ammonium Acryloyldimethyltaurate,,No,No,No
+YesStyle,Purito Wonder Releaf Centella Cream,Hydroxyacetophenone,hydroxyacetophenone,Hydroxyacetophenone,99-93-4,No,No,No
+YesStyle,Purito Wonder Releaf Centella Cream,Tromethamine,tromethamine,Tromethamine,77-86-1,No,No,No
+YesStyle,Purito Wonder Releaf Centella Cream,Dipotassium Glycyrrhizate,dipotassium glycyrrhizate,Dipotassium Glycyrrhizate,68797-35-3,No,No,No
+YesStyle,Purito Wonder Releaf Centella Cream,Ethylhexylglycerin,ethylhexylglycerin,Ethylhexylglycerin,70445-33-9,No,No,No
+YesStyle,Purito Wonder Releaf Centella Cream,Xanthan Gum,xanthan gum,Xanthan Gum,11138-66-2,No,No,No
+YesStyle,Purito Wonder Releaf Centella Cream,Disodium EDTA,disodium edta,Disodium Edta,139-33-3,No,No,No
+YesStyle,Purito Wonder Releaf Centella Cream,Sodium Hyaluronate,sodium hyaluronate,Hydrolyzed Sodium Hyaluronate,,No,No,No
+YesStyle,Purito Wonder Releaf Centella Cream,Madecassoside,madecassoside,Madecassoside,34540-22-2,No,No,No
+YesStyle,Purito Wonder Releaf Centella Cream,Asiaticoside,asiaticoside,Asiaticoside,16830-15-2,No,No,No
+YesStyle,Purito Wonder Releaf Centella Cream,Asiatic Acid,asiatic acid,Asiatic Acid,464-92-6,No,No,No
+YesStyle,Purito Wonder Releaf Centella Cream,Madecassic Acid,madecassic acid,Madecassic Acid,18449-41-7,No,No,No
+YesStyle,Purito Wonder Releaf Centella Cream,Copper Tripeptide-1,copper tripeptide-1,Copper Tripeptide-1,89030-95-5,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Water,water,Onsen-Sui,,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Centella Asiatica Extract,centella asiatica extract,Centella Asiatica Extract,84696-21-9,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Butylene Glycol,butylene glycol,Butylene Glycol,107-88-0,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Dipropylene Glycol,dipropylene glycol,Dipropylene Glycol,110-98-5,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Nelumbo Nucifera Extract,nelumbo nucifera extract,Nelumbo Nucifera Extract,,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Artemisia Annua Extract,artemisia annua extract,Artemisia Annua Extract,,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Oryza Sativa (Rice) Extract,oryza sativa extract,Oryza Sativa Extract,,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Saccharomyces Ferment,saccharomyces ferment,Hydrolyzed Yeast Extract,,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Niacinamide,niacinamide,Niacinamide,98-92-0,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Glutathione,glutathione,Glutathione,,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Solanum Melongena (Eggplant) Fruit Extract,solanum melongena fruit extract,Solanum Melongena Fruit Extract,,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Melaleuca Alternifolia (Tea Tree) Leaf Extract,melaleuca alternifolia leaf extract,Melaleuca Alternifolia Leaf Extract,85085-48-9,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Hydrolyzed Collagen,hydrolyzed collagen,Hydrolyzed Collagen,92113-31-0,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Beta-Glucan,beta-glucan,Beta-Glucan,26874-89-5,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Hippophae Rhamnoides Fruit Extract,hippophae rhamnoides fruit extract,Hippophae Rhamnoides Fruit Extract,,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Sodium Hyaluronate,sodium hyaluronate,Hydrolyzed Sodium Hyaluronate,,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Madecassic Acid,madecassic acid,Madecassic Acid,18449-41-7,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Asiaticoside,asiaticoside,Asiaticoside,16830-15-2,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Asiatic Acid,asiatic acid,Asiatic Acid,464-92-6,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Squalane,squalane,Squalane,111-01-3,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Caprylic/Capric Triglyceride,caprylic,Caprylic,,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Hydrogenated Lecithin,hydrogenated lecithin,Hydrogenated Lecithin,92128-87-5,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Glyceryl Stearate,glyceryl stearate,Glyceryl Stearate,31566-31-1,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Propanediol,propanediol,Propanediol,26264-14-2,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Disodium EDTA,disodium edta,Disodium Edta,139-33-3,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Glyceryl Acrylate/Acrylic Acid Copolymer,glyceryl acrylate,Glyceryl Acrylate,,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Cellulose Gum,cellulose gum,Cellulose Gum,9004-32-4,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Xanthan Gum,xanthan gum,Xanthan Gum,11138-66-2,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Inulin,inulin,Inulin,9005-80-5,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Cellulose,cellulose,Cellulose,9004-34-6,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Glucose,glucose,Glucose,50-99-7,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Fructose,fructose,Fructose,57-48-7,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Polyglucuronic Acid,polyglucuronic acid,Polyglucuronic Acid,36655-86-4,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Hydroxyethyl Urea,hydroxyethyl urea,Hydroxyethyl Urea,1320-51-0,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Ethylhexylglycerin,ethylhexylglycerin,Ethylhexylglycerin,70445-33-9,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Hydroxyacetophenone,hydroxyacetophenone,Hydroxyacetophenone,99-93-4,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer,hydroxyethyl acrylate,Hydroxyethyl Acrylate,,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Glycerin,glycerin,Glycerin,56-81-5,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Dipotassium Glycyrrhizate,dipotassium glycyrrhizate,Dipotassium Glycyrrhizate,68797-35-3,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,"1,2-Hexanediol","1,2-hexanediol","1,2-Hexanediol",6920-22-5,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Carbomer,carbomer,Carbomer,9007-20-9,No,No,No
+YesStyle,APLB Glutathione Niacinamide Mask,Arginine,arginine,Arginine,74-79-3,No,No,No
+YesStyle,Anua Peach 70 Niacin Serum,Water,water,Onsen-Sui,,No,No,No
+YesStyle,Anua Peach 70 Niacin Serum,Azelaic Acid,azelaic acid,Azelaic Acid,123-99-9,No,No,No
+YesStyle,Anua Peach 70 Niacin Serum,Propylene Glycol,propylene glycol,Propylene Glycol,57-55-6,No,No,No
+YesStyle,Anua Peach 70 Niacin Serum,Sodium Hydroxide,sodium hydroxide,Sodium Hydroxide,1310-73-2,No,No,No
+YesStyle,Anua Peach 70 Niacin Serum,Dipropylene Glycol,dipropylene glycol,Dipropylene Glycol,110-98-5,No,No,No
+YesStyle,Anua Peach 70 Niacin Serum,"1,2-Hexanediol","1,2-hexanediol","1,2-Hexanediol",6920-22-5,No,No,No
+YesStyle,Anua Peach 70 Niacin Serum,Panthenol,panthenol,Panthenol,81-13-0,No,No,No
+YesStyle,Anua Peach 70 Niacin Serum,Hydroxyethylcellulose,hydroxyethylcellulose,Hydroxyethylcellulose,9004-62-0,No,No,No
+YesStyle,Anua Peach 70 Niacin Serum,Betaine Salicylate,betaine salicylate,Betaine Salicylate,17671-53-3,No,No,No
+YesStyle,Anua Peach 70 Niacin Serum,Glycerin,glycerin,Glycerin,56-81-5,No,No,No
+YesStyle,Anua Peach 70 Niacin Serum,Biosaccharide Gum-1,biosaccharide gum-1,Biosaccharide Gum-1,194237-89-3,No,No,No
+YesStyle,Anua Peach 70 Niacin Serum,Ethylhexylglycerin,ethylhexylglycerin,Ethylhexylglycerin,70445-33-9,No,No,No
+YesStyle,Anua Peach 70 Niacin Serum,Allantoin,allantoin,Allantoin,97-59-6,No,No,No
+YesStyle,Anua Peach 70 Niacin Serum,Dipotassium Glycyrrhizate,dipotassium glycyrrhizate,Dipotassium Glycyrrhizate,68797-35-3,No,No,No
+YesStyle,Anua Peach 70 Niacin Serum,Melia Azadirachta Leaf Extract,melia azadirachta leaf extract,Melia Azadirachta Leaf Extract,,No,No,No
+YesStyle,Anua Peach 70 Niacin Serum,Camellia Sinensis Leaf Water,camellia sinensis leaf water,Camellia Sinensis Leaf Water,,No,No,No
+YesStyle,Anua Peach 70 Niacin Serum,Sodium Hyaluronate,sodium hyaluronate,Hydrolyzed Sodium Hyaluronate,,No,No,No
+YesStyle,Anua Peach 70 Niacin Serum,Melia Azadirachta Flower Extract,melia azadirachta flower extract,Melia Azadirachta Flower Extract,,No,No,No
+YesStyle,Anua Peach 70 Niacin Serum,Niacinamide,niacinamide,Niacinamide,98-92-0,No,No,No
+YesStyle,Anua Peach 70 Niacin Serum,Aloe Barbadensis Leaf Juice,aloe barbadensis leaf juice,Aloe Barbadensis Leaf Extract,,No,No,No
+YesStyle,Anua Peach 70 Niacin Serum,Beta-Glucan,beta-glucan,Beta-Glucan,26874-89-5,No,No,No
+YesStyle,Anua Peach 70 Niacin Serum,Centella Asiatica Extract,centella asiatica extract,Centella Asiatica Extract,84696-21-9,No,No,No
+YesStyle,Anua Peach 70 Niacin Serum,Centella Asiatica Leaf Extract,centella asiatica leaf extract,Centella Asiatica Leaf Extract,,No,No,No
+YesStyle,Anua Peach 70 Niacin Serum,Centella Asiatica Root Extract,centella asiatica root extract,Centella Asiatica Root Extract,,No,No,No
+YesStyle,Anua Peach 70 Niacin Serum,Madecassoside,madecassoside,Madecassoside,34540-22-2,No,No,No
+YesStyle,Anua Peach 70 Niacin Serum,Asiaticoside,asiaticoside,Asiaticoside,16830-15-2,No,No,No
+YesStyle,Anua Peach 70 Niacin Serum,Asiatic Acid,asiatic acid,Asiatic Acid,464-92-6,No,No,No
+YesStyle,Anua Peach 70 Niacin Serum,Madecassic Acid,madecassic acid,Madecassic Acid,18449-41-7,No,No,No
+YesStyle,Anua Peach 70 Niacin Serum,Squalane,squalane,Squalane,111-01-3,No,No,No
+YesStyle,Anua Peach 70 Niacin Serum,Zinc PCA,zinc pca,Zinc Pca,68107-75-5,No,No,No
+YesStyle,Anua Peach 70 Niacin Serum,Butylene Glycol,butylene glycol,Butylene Glycol,107-88-0,No,No,No
+YesStyle,Anua Peach 70 Niacin Serum,Pentylene Glycol,pentylene glycol,Pentylene Glycol,5343-92-0,No,No,No
+YesStyle,Anua Peach 70 Niacin Serum,Caprylyl/Capryl Glucoside,caprylyl,Caprylyl,,No,No,No
+YesStyle,Anua Peach 70 Niacin Serum,Hydrogenated Lecithin,hydrogenated lecithin,Hydrogenated Lecithin,92128-87-5,No,No,No
+YesStyle,Anua Peach 70 Niacin Serum,Ceramide NP,ceramide np,Ceramide Np,72968-43-5,No,No,No
+YesStyle,APLB Collagen Peptite Mask,Water,water,Onsen-Sui,,No,No,No
+YesStyle,APLB Collagen Peptite Mask,Centella Asiatica Leaf Water,centella asiatica leaf water,Centella Asiatica Leaf Water,,No,No,No
+YesStyle,APLB Collagen Peptite Mask,Butylene Glycol,butylene glycol,Butylene Glycol,107-88-0,No,No,No
+YesStyle,APLB Collagen Peptite Mask,Dipropylene Glycol,dipropylene glycol,Dipropylene Glycol,110-98-5,No,No,No
+YesStyle,APLB Collagen Peptite Mask,"1,2-Hexanediol","1,2-hexanediol","1,2-Hexanediol",6920-22-5,No,No,No
+YesStyle,APLB Collagen Peptite Mask,Hydroxyethyl Urea,hydroxyethyl urea,Hydroxyethyl Urea,1320-51-0,No,No,No
+YesStyle,APLB Collagen Peptite Mask,Propanediol,propanediol,Propanediol,26264-14-2,No,No,No
+YesStyle,APLB Collagen Peptite Mask,Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer,hydroxyethyl acrylate,Hydroxyethyl Acrylate,,No,No,No
+YesStyle,APLB Collagen Peptite Mask,Hydroxyacetophenone,hydroxyacetophenone,Hydroxyacetophenone,99-93-4,No,No,No
+YesStyle,APLB Collagen Peptite Mask,Carbomer,carbomer,Carbomer,9007-20-9,No,No,No
+YesStyle,APLB Collagen Peptite Mask,Arginine,arginine,Arginine,74-79-3,No,No,No
+YesStyle,APLB Collagen Peptite Mask,Glycerin,glycerin,Glycerin,56-81-5,No,No,No
+YesStyle,APLB Collagen Peptite Mask,Disodium EDTA,disodium edta,Disodium Edta,139-33-3,No,No,No
+YesStyle,APLB Collagen Peptite Mask,Cellulose Gum,cellulose gum,Cellulose Gum,9004-32-4,No,No,No
+YesStyle,APLB Collagen Peptite Mask,Dipotassium Glycyrrhizate,dipotassium glycyrrhizate,Dipotassium Glycyrrhizate,68797-35-3,No,No,No
+YesStyle,APLB Collagen Peptite Mask,Glyceryl Acrylate/Acrylic Acid Copolymer,glyceryl acrylate,Glyceryl Acrylate,,No,No,No
+YesStyle,APLB Collagen Peptite Mask,Xanthan Gum,xanthan gum,Xanthan Gum,11138-66-2,No,No,No
+YesStyle,APLB Collagen Peptite Mask,Inulin,inulin,Inulin,9005-80-5,No,No,No
+YesStyle,APLB Collagen Peptite Mask,Cellulose,cellulose,Cellulose,9004-34-6,No,No,No
+YesStyle,APLB Collagen Peptite Mask,Fructose,fructose,Fructose,57-48-7,No,No,No
+YesStyle,APLB Collagen Peptite Mask,Glucose,glucose,Glucose,50-99-7,No,No,No
+YesStyle,APLB Collagen Peptite Mask,Polyglucuronic Acid,polyglucuronic acid,Polyglucuronic Acid,36655-86-4,No,No,No
+YesStyle,APLB Collagen Peptite Mask,Hydrolyzed Collagen,hydrolyzed collagen,Hydrolyzed Collagen,92113-31-0,No,No,No
+YesStyle,APLB Collagen Peptite Mask,Caprylyl Glycol,caprylyl glycol,Caprylyl Glycol,1117-86-8,No,No,No
+YesStyle,APLB Collagen Peptite Mask,Squalane,squalane,Squalane,111-01-3,No,No,No
+YesStyle,APLB Collagen Peptite Mask,Asiaticoside,asiaticoside,Asiaticoside,16830-15-2,No,No,No
+YesStyle,APLB Collagen Peptite Mask,Madecassic Acid,madecassic acid,Madecassic Acid,18449-41-7,No,No,No
+YesStyle,APLB Collagen Peptite Mask,Asiatic Acid,asiatic acid,Asiatic Acid,464-92-6,No,No,No
+YesStyle,APLB Collagen Peptite Mask,Sodium Hyaluronate,sodium hyaluronate,Hydrolyzed Sodium Hyaluronate,,No,No,No
+YesStyle,APLB Collagen Peptite Mask,Melaleuca Alternifolia (Tea Tree) Leaf Extract,melaleuca alternifolia leaf extract,Melaleuca Alternifolia Leaf Extract,85085-48-9,No,No,No
+YesStyle,APLB Collagen Peptite Mask,Hippophae Rhamnoides Fruit Extract,hippophae rhamnoides fruit extract,Hippophae Rhamnoides Fruit Extract,,No,No,No
+YesStyle,APLB Collagen Peptite Mask,Ethylhexylglycerin,ethylhexylglycerin,Ethylhexylglycerin,70445-33-9,No,No,No
+YesStyle,APLB Collagen Peptite Mask,Beta-Glucan,beta-glucan,Beta-Glucan,26874-89-5,No,No,No
+YesStyle,APLB Collagen Peptite Mask,Nelumbium Speciosum Flower Extract,nelumbium speciosum flower extract,Nelumbium Speciosum Flower Extract,,No,No,No
+YesStyle,APLB Collagen Peptite Mask,Artemisia Annua Extract,artemisia annua extract,Artemisia Annua Extract,,No,No,No
+YesStyle,APLB Collagen Peptite Mask,Oryza Sativa (Rice) Extract,oryza sativa extract,Oryza Sativa Extract,,No,No,No
+YesStyle,APLB Collagen Peptite Mask,Saccharomyces Ferment,saccharomyces ferment,Hydrolyzed Yeast Extract,,No,No,No
+YesStyle,APLB Collagen Peptite Mask,Solanum Melongena (Eggplant) Fruit Extract,solanum melongena fruit extract,Solanum Melongena Fruit Extract,,No,No,No
+YesStyle,APLB Collagen Peptite Mask,sh-Oligopeptide-1,sh-oligopeptide-1,Sh-Oligopeptide-1,62253-63-8,No,No,No
+YesStyle,SKIN1004 Madagascar Centella Ampoule,Water,water,Onsen-Sui,,No,No,No
+YesStyle,SKIN1004 Madagascar Centella Ampoule,"1,2-Hexanediol","1,2-hexanediol","1,2-Hexanediol",6920-22-5,No,No,No
+YesStyle,SKIN1004 Madagascar Centella Ampoule,Butylene Glycol,butylene glycol,Butylene Glycol,107-88-0,No,No,No
+YesStyle,SKIN1004 Madagascar Centella Ampoule,Centella Asiatica Extract,centella asiatica extract,Centella Asiatica Extract,84696-21-9,No,No,No
+YesStyle,SKIN1004 Madagascar Centella Ampoule,Panthenol,panthenol,Panthenol,81-13-0,No,No,No
+YesStyle,SKIN1004 Madagascar Centella Ampoule,Xanthan Gum,xanthan gum,Xanthan Gum,11138-66-2,No,No,No
+YesStyle,SKIN1004 Madagascar Centella Ampoule,Sodium Hyaluronate,sodium hyaluronate,Hydrolyzed Sodium Hyaluronate,,No,No,No
+YesStyle,SKIN1004 Madagascar Centella Ampoule,Ethylhexylglycerin,ethylhexylglycerin,Ethylhexylglycerin,70445-33-9,No,No,No
+YesStyle,SKIN1004 Madagascar Centella Ampoule,Disodium EDTA,disodium edta,Disodium Edta,139-33-3,No,No,No
+YesStyle,SKIN1004 Madagascar Centella Ampoule,Citric Acid,citric acid,Citric Acid,77-92-9,No,No,No
+YesStyle,SKIN1004 Quick Clay Stick Mask,Water,water,Onsen-Sui,,No,No,No
+YesStyle,SKIN1004 Quick Clay Stick Mask,Kaolin,kaolin,Beraclay Light Red,,No,No,No
+YesStyle,SKIN1004 Quick Clay Stick Mask,Dipropylene Glycol,dipropylene glycol,Dipropylene Glycol,110-98-5,No,No,No
+YesStyle,SKIN1004 Quick Clay Stick Mask,Glycerin,glycerin,Glycerin,56-81-5,No,No,No
+YesStyle,SKIN1004 Quick Clay Stick Mask,Titanium Dioxide (CI 77891),titanium dioxide,Ci 77891,,No,No,No
+YesStyle,SKIN1004 Quick Clay Stick Mask,Butylene Glycol,butylene glycol,Butylene Glycol,107-88-0,No,No,No
+YesStyle,SKIN1004 Quick Clay Stick Mask,Sodium Stearate,sodium stearate,Sodium Stearate,822-16-2,No,No,No
+YesStyle,SKIN1004 Quick Clay Stick Mask,"1,2-Hexanediol","1,2-hexanediol","1,2-Hexanediol",6920-22-5,No,No,No
+YesStyle,SKIN1004 Quick Clay Stick Mask,Aloe Barbadensis Leaf Extract,aloe barbadensis leaf extract,Aloe Barbadensis Leaf Extract,85507-69-3,No,No,No
+YesStyle,SKIN1004 Quick Clay Stick Mask,Phaseolus Angularis Seed Powder,phaseolus angularis seed powder,Phaseolus Angularis Seed Powder,,No,No,No
+YesStyle,SKIN1004 Quick Clay Stick Mask,Cetearyl Olivate,cetearyl olivate,Cetearyl Olivate,223706-40-9,No,No,No
+YesStyle,SKIN1004 Quick Clay Stick Mask,Propanediol,propanediol,Propanediol,26264-14-2,No,No,No
+YesStyle,SKIN1004 Quick Clay Stick Mask,Sorbitan Olivate,sorbitan olivate,Cetearyl Olivate,,No,No,No
+YesStyle,SKIN1004 Quick Clay Stick Mask,Dimethicone,dimethicone,Dimethicone,9006-65-9,No,No,No
+YesStyle,SKIN1004 Quick Clay Stick Mask,Iron Oxides (CI 77491),iron oxides,Iron Oxides,1332-37-2,No,No,No
+YesStyle,SKIN1004 Quick Clay Stick Mask,Centella Asiatica Extract,centella asiatica extract,Centella Asiatica Extract,84696-21-9,No,No,No
+YesStyle,SKIN1004 Quick Clay Stick Mask,Ethylhexylglycerin,ethylhexylglycerin,Ethylhexylglycerin,70445-33-9,No,No,No
+YesStyle,SKIN1004 Quick Clay Stick Mask,Sodium Phytate,sodium phytate,Sodium Phytate,14306-25-3,No,No,No
+YesStyle,SKIN1004 Quick Clay Stick Mask,Bentonite,bentonite,Bentonite,1302-78-9,No,No,No
+YesStyle,SKIN1004 Quick Clay Stick Mask,Illite,illite,Illite,,No,No,No
+YesStyle,SKIN1004 Quick Clay Stick Mask,Mineral Salts,mineral salts,Mineral Salts,,No,No,No
+YesStyle,SKIN1004 Quick Clay Stick Mask,Montmorillonite,montmorillonite,Montmorillonite,1318-93-0,No,No,No
+YesStyle,SKIN1004 Quick Clay Stick Mask,Calamine,calamine,Calamine,,No,No,No
+Ulta,IT Cosmetics CC+ Nude Glow SPF 40,Water,water,Onsen-Sui,,No,No,No
+Ulta,IT Cosmetics CC+ Nude Glow SPF 40,Glycerin,glycerin,Glycerin,56-81-5,No,No,No
+Ulta,IT Cosmetics CC+ Nude Glow SPF 40,Caprylyl Methicone,caprylyl methicone,Caprylyl Methicone,17955-88-3,No,No,No
+Ulta,IT Cosmetics CC+ Nude Glow SPF 40,Dimethicone,dimethicone,Dimethicone,9006-65-9,No,No,No
+Ulta,IT Cosmetics CC+ Nude Glow SPF 40,Butyloctyl Salicylate,butyloctyl salicylate,Butyloctyl Salicylate,190085-41-7,No,No,No
+Ulta,IT Cosmetics CC+ Nude Glow SPF 40,Cetyl PEG/PPG-10/1 Dimethicone,cetyl peg,Cetyl Peg,,No,No,No
+Ulta,IT Cosmetics CC+ Nude Glow SPF 40,Niacinamide,niacinamide,Niacinamide,98-92-0,No,No,No
+Ulta,IT Cosmetics CC+ Nude Glow SPF 40,Propanediol,propanediol,Propanediol,26264-14-2,No,No,No
+Ulta,IT Cosmetics CC+ Nude Glow SPF 40,Dimethicone/PEG-10/15 Crosspolymer,dimethicone,Dimethicone,9006-65-9,No,No,No
+Ulta,IT Cosmetics CC+ Nude Glow SPF 40,Synthetic Fluorphlogopite,synthetic fluorphlogopite,Synthetic Fluorphlogopite,12003-38-2,No,No,No
+Ulta,IT Cosmetics CC+ Nude Glow SPF 40,Phenoxyethanol,phenoxyethanol,Phenoxyethanol,122-99-6,No,No,No
+Ulta,IT Cosmetics CC+ Nude Glow SPF 40,Sodium Chloride,sodium chloride,Sodium Chloride,7647-14-5,No,No,No
+Ulta,IT Cosmetics CC+ Nude Glow SPF 40,Butylene Glycol,butylene glycol,Butylene Glycol,107-88-0,No,No,No
+Ulta,IT Cosmetics CC+ Nude Glow SPF 40,Trimethylsiloxysilicate,trimethylsiloxysilicate,Trimethylsiloxysilicate,56275-01-5,No,No,No
+Ulta,IT Cosmetics CC+ Nude Glow SPF 40,Disteardimonium Hectorite,disteardimonium hectorite,Disteardimonium Hectorite,97280-96-1,No,No,No
+Ulta,IT Cosmetics CC+ Nude Glow SPF 40,Disodium Stearoyl Glutamate,disodium stearoyl glutamate,Disodium Stearoyl Glutamate,,No,No,No
+Ulta,IT Cosmetics CC+ Nude Glow SPF 40,Fragrance,fragrance,Fragrance,,No,No,No
+Ulta,IT Cosmetics CC+ Nude Glow SPF 40,Chlorphenesin,chlorphenesin,Chlorphenesin,104-29-0,No,No,No
+Ulta,IT Cosmetics CC+ Nude Glow SPF 40,Caprylyl Glycol,caprylyl glycol,Caprylyl Glycol,1117-86-8,No,No,No
+Ulta,IT Cosmetics CC+ Nude Glow SPF 40,Snail Secretion Filtrate,snail secretion filtrate,Snail Secretion Filtrate,,No,No,No
+Ulta,IT Cosmetics CC+ Nude Glow SPF 40,Silica Silylate,silica silylate,Silica Silylate,68909-20-6,No,No,No
+Ulta,IT Cosmetics CC+ Nude Glow SPF 40,Trisodium Ethylenediamine Disuccinate,trisodium ethylenediamine disuccinate,Trisodium Ethylenediamine Disuccinate,20846-91-7,No,No,No
+Ulta,IT Cosmetics CC+ Nude Glow SPF 40,Limonene,limonene,Limonene,138-86-3,No,No,No
+Ulta,IT Cosmetics CC+ Nude Glow SPF 40,Simethicone,simethicone,Simethicone,8050-81-5,No,No,No
+Ulta,IT Cosmetics CC+ Nude Glow SPF 40,Maltodextrin,maltodextrin,Maltodextrin,9050-36-6,No,No,No
+Ulta,IT Cosmetics CC+ Nude Glow SPF 40,Aluminum Hydroxide,aluminum hydroxide,Aluminum Hydroxide,21645-51-2,No,No,No
+Ulta,IT Cosmetics CC+ Nude Glow SPF 40,Adenosine,adenosine,Adenosine,58-61-7,No,No,No
+Ulta,IT Cosmetics CC+ Nude Glow SPF 40,Ethyl Hexanediol,ethyl hexanediol,Ethyl Hexanediol,94-96-2,No,No,No
+Ulta,IT Cosmetics CC+ Nude Glow SPF 40,Dipropylene Glycol,dipropylene glycol,Dipropylene Glycol,110-98-5,No,No,No
+Ulta,IT Cosmetics CC+ Nude Glow SPF 40,Sodium Hyaluronate,sodium hyaluronate,Hydrolyzed Sodium Hyaluronate,,No,No,No
+Ulta,IT Cosmetics CC+ Nude Glow SPF 40,Citral,citral,Citral,5392-40-5,No,No,No
+Ulta,IT Cosmetics CC+ Nude Glow SPF 40,Linalool,linalool,Linalool,78-70-6,No,No,No
+Ulta,IT Cosmetics CC+ Nude Glow SPF 40,Sodium Citrate,sodium citrate,Sodium Citrate,68-04-2,No,No,No
+Ulta,IT Cosmetics CC+ Nude Glow SPF 40,Camellia Sinensis Leaf Extract,camellia sinensis leaf extract,Camellia Sinensis Leaf Extract,84650-60-2,No,No,No
+Ulta,IT Cosmetics CC+ Nude Glow SPF 40,Tocopherol,tocopherol,Tocopherol,54-28-4,No,No,No
+Ulta,IT Cosmetics CC+ Nude Glow SPF 40,Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate,pentaerythrityl tetra-di-t-butyl hydroxyhydrocinnamate,Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate,6683-19-8,No,No,No
+Ulta,La Roche-Posay Toleriane Foaming Face Wash,Aqua/Water/Eau (La Roche-Posay Prebiotic Thermal Water),aqua,Aqua,,No,No,No
+Ulta,La Roche-Posay Toleriane Foaming Face Wash,Glycerin,glycerin,Glycerin,56-81-5,No,No,No
+Ulta,La Roche-Posay Toleriane Foaming Face Wash,Coco-Betaine,coco-betaine,Coco-Betaine,,No,No,No
+Ulta,La Roche-Posay Toleriane Foaming Face Wash,Propylene Glycol,propylene glycol,Propylene Glycol,57-55-6,No,No,No
+Ulta,La Roche-Posay Toleriane Foaming Face Wash,Sodium Cocoyl Glycinate,sodium cocoyl glycinate,Sodium Cocoyl Glycinate,,No,No,No
+Ulta,La Roche-Posay Toleriane Foaming Face Wash,PEG-120 Methyl Glucose Dioleate,peg-120 methyl glucose dioleate,Peg-120 Methyl Glucose Dioleate,,No,No,No
+Ulta,La Roche-Posay Toleriane Foaming Face Wash,Sodium Chloride,sodium chloride,Sodium Chloride,7647-14-5,No,No,No
+Ulta,La Roche-Posay Toleriane Foaming Face Wash,Ceramide NP,ceramide np,Ceramide Np,72968-43-5,No,No,No
+Ulta,La Roche-Posay Toleriane Foaming Face Wash,Niacinamide,niacinamide,Niacinamide,98-92-0,No,No,No
+Ulta,La Roche-Posay Toleriane Foaming Face Wash,Sodium Hydroxide,sodium hydroxide,Sodium Hydroxide,1310-73-2,No,No,No
+Ulta,La Roche-Posay Toleriane Foaming Face Wash,Disodium EDTA,disodium edta,Disodium Edta,139-33-3,No,No,No
+Ulta,La Roche-Posay Toleriane Foaming Face Wash,Capryloyl Glycine,capryloyl glycine,Capryloyl Glycine,,No,No,No
+Ulta,La Roche-Posay Toleriane Foaming Face Wash,Caprylyl Glycol,caprylyl glycol,Caprylyl Glycol,1117-86-8,No,No,No
+Ulta,La Roche-Posay Toleriane Foaming Face Wash,Citric Acid,citric acid,Citric Acid,77-92-9,No,No,No
+Ulta,La Roche-Posay Toleriane Foaming Face Wash,Acrylates Copolymer,acrylates copolymer,Acrylates Copolymer,25133-97-5,No,No,No
+Ulta,Bobbi Brown Vitamin Enriched Face Base,Water/Aqua/Eau,water,Onsen-Sui,,No,No,No
+Ulta,Bobbi Brown Vitamin Enriched Face Base,Cyclopentasiloxane,cyclopentasiloxane,Cyclopentasiloxane,541-02-6,No,No,No
+Ulta,Bobbi Brown Vitamin Enriched Face Base,Bis-Diglyceryl Polyacyladipate-2,bis-diglyceryl polyacyladipate-2,Bis-Diglyceryl Polyacyladipate-2,82249-33-0,No,No,No
+Ulta,Bobbi Brown Vitamin Enriched Face Base,Butylene Glycol,butylene glycol,Butylene Glycol,107-88-0,No,No,No
+Ulta,Bobbi Brown Vitamin Enriched Face Base,PPG-2 Myristyl Ether Propionate,ppg-2 myristyl ether propionate,Ppg-2 Myristyl Ether Propionate,,No,No,No
+Ulta,Bobbi Brown Vitamin Enriched Face Base,Cetyl Alcohol,cetyl alcohol,Cetyl Alcohol,36653-82-4,No,No,No
+Ulta,Bobbi Brown Vitamin Enriched Face Base,PEG-40 Stearate,peg-40 stearate,Peg-100 Stearate,,No,No,No
+Ulta,Bobbi Brown Vitamin Enriched Face Base,Butyrospermum Parkii (Shea Butter),butyrospermum parkii,Butyrospermum Parkii,,No,No,No
+Ulta,Bobbi Brown Vitamin Enriched Face Base,Squalane,squalane,Squalane,111-01-3,No,No,No
+Ulta,Bobbi Brown Vitamin Enriched Face Base,Glyceryl Stearate,glyceryl stearate,Glyceryl Stearate,31566-31-1,No,No,No
+Ulta,Bobbi Brown Vitamin Enriched Face Base,Sorbitan Stearate,sorbitan stearate,Sorbitan Stearate,1338-41-6,No,No,No
+Ulta,Bobbi Brown Vitamin Enriched Face Base,Epilobium Angustifolium Extract,epilobium angustifolium extract,Epilobium Angustifolium Extract,,No,No,No
+Ulta,Bobbi Brown Vitamin Enriched Face Base,Yeast Extract/Faex/Extrait De Levure,yeast extract,Hydrolyzed Yeast Extract,,No,No,No
+Ulta,Bobbi Brown Vitamin Enriched Face Base,Beta-Carotene,beta-carotene,Beta-Carotene,,No,No,No
+Ulta,Bobbi Brown Vitamin Enriched Face Base,Sodium Hyaluronate,sodium hyaluronate,Hydrolyzed Sodium Hyaluronate,,No,No,No
+Ulta,Bobbi Brown Vitamin Enriched Face Base,Citrus Grandis (Grapefruit) Peel Oil,citrus grandis peel oil,Citrus Grandis Peel Oil,90045-43-5,No,No,No
+Ulta,Bobbi Brown Vitamin Enriched Face Base,Tocopheryl Acetate,tocopheryl acetate,Tocopheryl Acetate,7695-91-2,No,No,No
+Ulta,Bobbi Brown Vitamin Enriched Face Base,Methyl Glucose Sesquistearate,methyl glucose sesquistearate,Methyl Glucose Sesquistearate,68936-95-8,No,No,No
+Ulta,Bobbi Brown Vitamin Enriched Face Base,Pelargonium Graveolens (Geranium) Flower Oil,pelargonium graveolens flower oil,Pelargonium Graveolens Flower Oil,90082-51-2,No,No,No
+Ulta,Bobbi Brown Vitamin Enriched Face Base,Dimethicone Crosspolymer,dimethicone crosspolymer,Dimethicone Crosspolymer,300-00-5,No,No,No
+Ulta,Bobbi Brown Vitamin Enriched Face Base,Acrylates/C10-30 Alkyl Acrylate Crosspolymer,acrylates,Acrylates,,No,No,No
+Ulta,Bobbi Brown Vitamin Enriched Face Base,Carbomer,carbomer,Carbomer,9007-20-9,No,No,No
+Ulta,Bobbi Brown Vitamin Enriched Face Base,PEG-20 Methyl Glucose Sesquistearate,peg-20 methyl glucose sesquistearate,Peg-20 Methyl Glucose Sesquistearate,68389-70-8,No,No,No
+Ulta,Bobbi Brown Vitamin Enriched Face Base,C12-15 Alkyl Ethylhexanoate,c12-15 alkyl ethylhexanoate,C12-15 Alkyl Ethylhexanoate,,No,No,No
+Ulta,Bobbi Brown Vitamin Enriched Face Base,Tetrasodium EDTA,tetrasodium edta,Tetrasodium Edta,64-02-8,No,No,No
+Ulta,Bobbi Brown Vitamin Enriched Face Base,Sodium Hydroxide,sodium hydroxide,Sodium Hydroxide,1310-73-2,No,No,No
+Ulta,Bobbi Brown Vitamin Enriched Face Base,Panthenol,panthenol,Panthenol,81-13-0,No,No,No
+Ulta,Bobbi Brown Vitamin Enriched Face Base,Magnesium Ascorbyl Phosphate,magnesium ascorbyl phosphate,Magnesium Ascorbyl Phosphate,114040-31-2,No,No,No
+Ulta,Bobbi Brown Vitamin Enriched Face Base,Limonene,limonene,Limonene,138-86-3,No,No,No
+Ulta,Bobbi Brown Vitamin Enriched Face Base,Citronellol,citronellol,Citronellol,106-22-9,No,No,No
+Ulta,Bobbi Brown Vitamin Enriched Face Base,Geraniol,geraniol,Geraniol,106-24-1,No,No,No
+Ulta,Bobbi Brown Vitamin Enriched Face Base,Linalool,linalool,Linalool,78-70-6,No,No,No
+Ulta,Bobbi Brown Vitamin Enriched Face Base,Chlorphenesin,chlorphenesin,Chlorphenesin,104-29-0,No,No,No
+Ulta,Bobbi Brown Vitamin Enriched Face Base,Phenoxyethanol,phenoxyethanol,Phenoxyethanol,122-99-6,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Polybutene,polybutene,Polybutene,,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Hydrogenated Polydecene,hydrogenated polydecene,Hydrogenated Polydecene,68037-01-4,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Bis-Diglyceryl Polyacyladipate-2,bis-diglyceryl polyacyladipate-2,Bis-Diglyceryl Polyacyladipate-2,82249-33-0,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Hydrogenated Styrene/Isoprene Copolymer,hydrogenated styrene,Hydrogenated Styrene,,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Cera Microcristallina/Microcrystalline Wax/Cire Microcristalline,cera microcristallina,Cera Microcristallina,,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Silica,silica,Silica,7631-86-9,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Rubus Chamaemorus Seed Oil,rubus chamaemorus seed oil,Rubus Chamaemorus Seed Oil,,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Garcinia Indica Seed Butter,garcinia indica seed butter,Garcinia Indica Seed Butter,,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Euterpe Oleracea Sterols,euterpe oleracea sterols,Euterpe Oleracea Sterols,,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Palmitoyl Hexapeptide-12,palmitoyl hexapeptide-12,Palmitoyl Hexapeptide-12,171263-26-6,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Palmitoyl Tripeptide-1,palmitoyl tripeptide-1,Palmitoyl Tripeptide-1,147732-56-7,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Tocopheryl Acetate,tocopheryl acetate,Tocopheryl Acetate,7695-91-2,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Tocopherol,tocopherol,Tocopherol,54-28-4,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Irvingia Gabonensis Kernel Butter,irvingia gabonensis kernel butter,Irvingia Gabonensis Kernel Butter,,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Citrus Aurantium Dulcis (Orange) Peel Wax,citrus aurantium dulcis peel wax,Citrus Aurantium Dulcis Peel Wax,,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Linoleic Acid,linoleic acid,Linoleic Acid,60-33-3,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Linolenic Acid,linolenic acid,Linolenic Acid,463-40-1,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Oleic Acid,oleic acid,Oleic Acid,112-80-1,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Lactic Acid,lactic acid,Lactic Acid,50-21-5,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Helianthus Annuus (Sunflower) Seed Oil,helianthus annuus seed oil,Helianthus Annuus Seed Oil,8001-21-6,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Caprylic/Capric Triglyceride,caprylic,Caprylic,,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Cera Carnauba/Copernicia Cerifera (Carnauba) Wax/Cire De Carnauba,cera carnauba,Cera Carnauba,,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Hydrogenated Coco-Glycerides,hydrogenated coco-glycerides,Hydrogenated Coco-Glycerides,91744-42-2,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Sorbitan Isostearate,sorbitan isostearate,Sorbitan Isostearate,71902-01-7,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Pentaerythrityl Tetraisostearate,pentaerythrityl tetraisostearate,Pentaerythrityl Tetraisostearate,62125-22-8,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate,pentaerythrityl tetra-di-t-butyl hydroxyhydrocinnamate,Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate,6683-19-8,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Octyldodecanol,octyldodecanol,Octyldodecanol,5333-42-6,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Ethylhexyl Palmitate,ethylhexyl palmitate,Ethylhexyl Palmitate,29806-73-3,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Dicalcium Phosphate,dicalcium phosphate,Dicalcium Phosphate,,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Tribehenin,tribehenin,Tribehenin,18641-57-1,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Propylene Carbonate,propylene carbonate,Propylene Carbonate,,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Stearalkonium Hectorite,stearalkonium hectorite,Stearalkonium Hectorite,,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Sodium Saccharin,sodium saccharin,Sodium Saccharin,,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Parfum/Fragrance,parfum,Parfum,,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Benzaldehyde,benzaldehyde,Benzaldehyde,,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Citrus Aurantium Peel Oil,citrus aurantium peel oil,Citrus Aurantium Peel Oil,,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Geranyl Acetate,geranyl acetate,Geranyl Acetate,,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Limonene,limonene,Limonene,138-86-3,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Pinene,pinene,Pinene,,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Terpineol,terpineol,Terpineol,,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,"Iron Oxides (CI 77491, CI 77492)",iron oxides,Iron Oxides,1332-37-2,No,No,No
+Ulta,OLEHENRIKSEN Pout Preserve,Titanium Dioxide (CI 77891),titanium dioxide,Ci 77891,,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,Water,water,Onsen-Sui,,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,Coconut Alkanes,coconut alkanes,Coconut Alkanes,112-40-3,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,Propanediol,propanediol,Propanediol,26264-14-2,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,Silica,silica,Silica,7631-86-9,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,Squalane,squalane,Squalane,111-01-3,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,Trehalose,trehalose,Trehalose,99-20-7,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,Kaolin,kaolin,Beraclay Light Red,,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,Agar,agar,Agar,,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,Isostearic Acid,isostearic acid,Isostearic Acid,30399-84-9,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,Polysorbate 60,polysorbate 60,Polysorbate 60,9005-67-8,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,Sorbitan Sesquiisostearate,sorbitan sesquiisostearate,Sorbitan Sesquiisostearate,71812-38-9,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,Hydrolyzed Hyaluronic Acid,hydrolyzed hyaluronic acid,Hyaluronic Acid,,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,Salicornia Herbacea Extract,salicornia herbacea extract,Salicornia Herbacea Extract,91845-47-5,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,Caprylic/Capric Triglyceride,caprylic,Caprylic,,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,Theobroma Cacao (Cocoa) Seed Extract,theobroma cacao seed extract,Theobroma Cacao Seed Extract,,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,Camellia Japonica Flower Extract,camellia japonica flower extract,Camellia Japonica Flower Extract,,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,Chlorella Vulgaris Extract,chlorella vulgaris extract,Chlorella Vulgaris Extract,,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,Polyglyceryl-4 Laurate/Succinate,polyglyceryl-4 laurate,Polyglyceryl-4 Laurate,,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,Aluminum Hydroxide,aluminum hydroxide,Aluminum Hydroxide,21645-51-2,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,Phenoxyethanol,phenoxyethanol,Phenoxyethanol,122-99-6,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,Coco-Caprylate/Caprate,coco-caprylate,Coco-Caprylate,95912-86-0,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,Glycerin,glycerin,Glycerin,56-81-5,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,Hydrogen Dimethicone,hydrogen dimethicone,Hydrogen Dimethicone,68037-59-2,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,Magnesium Stearate,magnesium stearate,Magnesium Stearate,,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,Chlorphenesin,chlorphenesin,Chlorphenesin,104-29-0,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,Cellulose Gum,cellulose gum,Cellulose Gum,9004-32-4,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,Butylene Glycol,butylene glycol,Butylene Glycol,107-88-0,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,Succinoglycan,succinoglycan,Succinoglycan,,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,Lauroyl Lysine,lauroyl lysine,Lauroyl Lysine,,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,Sodium PCA,sodium pca,Sodium Pca,28874-51-3,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,"1,2-Hexanediol","1,2-hexanediol","1,2-Hexanediol",6920-22-5,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,Calcium Chloride,calcium chloride,Calcium Chloride,,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,Magnesium Chloride,magnesium chloride,Magnesium Chloride,7786-30-3,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,Biosaccharide Gum-4,biosaccharide gum-4,Biosaccharide Gum-4,,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,Potassium Chloride,potassium chloride,Potassium Chloride,,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,Melilotus Officinalis Extract,melilotus officinalis extract,Melilotus Officinalis Extract,,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,Magnesium Oxide,magnesium oxide,Magnesium Oxide,,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,Lactic Acid,lactic acid,Lactic Acid,50-21-5,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,Alumina,alumina,Alumina,1344-28-1,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,"Iron Oxides (CI 77491, CI 77492, CI 77499)",iron oxides,Iron Oxides,1332-37-2,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,Titanium Dioxide (CI 77891),titanium dioxide,Ci 77891,,No,No,No
+Ulta,bareMinerals Tinted Moisturizer,Titanium Dioxide 6.9%,titanium dioxide 6.9%,Titanium Dioxide 6.9%,,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,Aqua (Water),aqua,Aqua,,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,Glycolic Acid,glycolic acid,Glycolic Acid,79-14-1,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,Rosa Damascena Flower Water,rosa damascena flower water,Rosa Damascena Absolute,,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,Centaurea Cyanus Flower Water,centaurea cyanus flower water,Centaurea Cyanus Flower Water,84012-18-0,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,Aloe Barbadensis Leaf Water,aloe barbadensis leaf water,Aloe Barbadensis Leaf Water,,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,Propanediol,propanediol,Propanediol,26264-14-2,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,Glycerin,glycerin,Glycerin,56-81-5,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,Triethanolamine,triethanolamine,Triethanolamine,102-71-6,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,Aminomethyl Propanol,aminomethyl propanol,Aminomethyl Propanol,124-68-5,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,Panax Ginseng Root Extract,panax ginseng root extract,Panax Ginseng Root Extract,84650-12-4,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,Tasmannia Lanceolata Fruit/Leaf Extract,tasmannia lanceolata fruit,Tasmannia Lanceolata Fruit,,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,Aspartic Acid,aspartic acid,Aspartic Acid,56-84-8,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,Alanine,alanine,Alanine,302-72-7,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,Glycine,glycine,Glycine,56-40-6,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,Serine,serine,Serine,302-84-1,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,Valine,valine,Valine,516-06-3,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,Isoleucine,isoleucine,Isoleucine,73-32-5,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,Proline,proline,Proline,609-36-9,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,Threonine,threonine,Threonine,80-68-2,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,Histidine,histidine,Histidine,71-00-1,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,Phenylalanine,phenylalanine,Phenylalanine,150-30-1,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,Glutamic Acid,glutamic acid,Glutamic Acid,56-86-0,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,Arginine,arginine,Arginine,74-79-3,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,PCA,pca,Pca,98-79-3,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,Sodium PCA,sodium pca,Sodium Pca,28874-51-3,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,Sodium Lactate,sodium lactate,Sodium Lactate,72-17-3,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,Fructose,fructose,Fructose,57-48-7,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,Glucose,glucose,Glucose,50-99-7,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,Sucrose,sucrose,Sucrose,57-50-1,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,Urea,urea,Urea,57-13-6,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,Hexyl Nicotinate,hexyl nicotinate,Hexyl Nicotinate,23597-82-2,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,Dextrin,dextrin,Dextrin,9004-53-9,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,Citric Acid,citric acid,Citric Acid,77-92-9,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,Polysorbate 20,polysorbate 20,Polysorbate 20,9005-64-5,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,Gellan Gum,gellan gum,Gellan Gum,,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,Trisodium Ethylenediamine Disuccinate,trisodium ethylenediamine disuccinate,Trisodium Ethylenediamine Disuccinate,20846-91-7,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,Sodium Chloride,sodium chloride,Sodium Chloride,7647-14-5,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,Hexylene Glycol,hexylene glycol,Hexylene Glycol,107-41-5,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,Potassium Sorbate,potassium sorbate,Potassium Sorbate,24634-61-5,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,Sodium Benzoate,sodium benzoate,Sodium Benzoate,532-32-1,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,"1,2-Hexanediol","1,2-hexanediol","1,2-Hexanediol",6920-22-5,No,No,No
+Ulta,The Ordinary Glycolic Acid 7% Exfoliating Toner,Caprylyl Glycol,caprylyl glycol,Caprylyl Glycol,1117-86-8,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Water/Aqua/Eau,water,Onsen-Sui,,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Methyl Trimethicone,methyl trimethicone,Methyl Trimethicone,17928-28-8,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Phenyl Trimethicone,phenyl trimethicone,Phenyl Trimethicone,2116-84-9,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Dimethicone,dimethicone,Dimethicone,9006-65-9,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Triethylhexanoin,triethylhexanoin,Triethylhexanoin,7360-38-5,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Butylene Glycol,butylene glycol,Butylene Glycol,107-88-0,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Trimethylsiloxysilicate,trimethylsiloxysilicate,Trimethylsiloxysilicate,56275-01-5,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Yeast Extract/Faex/Extrait De Levure,yeast extract,Hydrolyzed Yeast Extract,,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,PEG-10 Dimethicone,peg-10 dimethicone,Peg-10 Dimethicone,68937-54-2,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Lauryl PEG-9 Polydimethylsiloxyethyl Dimethicone,lauryl peg-9 polydimethylsiloxyethyl dimethicone,Lauryl Peg-9 Polydimethylsiloxyethyl Dimethicone,1178566-90-9,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Alumina,alumina,Alumina,1344-28-1,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Citrus Grandis (Grapefruit) Peel Extract,citrus grandis peel extract,Citrus Grandis Peel Extract,,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Betula Alba (Birch) Bark Extract,betula alba bark extract,Betula Alba Bark Extract,84012-15-7,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Saccharomyces Lysate Extract,saccharomyces lysate extract,Saccharomyces Lysate Extract,,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Astrocaryum Murumuru Seed Butter,astrocaryum murumuru seed butter,Astrocaryum Murumuru Seed Butter,,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,C12-15 Alkyl Benzoate,c12-15 alkyl benzoate,C12-15 Alkyl Benzoate,68411-27-8,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Glycerin,glycerin,Glycerin,56-81-5,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Sodium Myristoyl Sarcosinate,sodium myristoyl sarcosinate,Sodium Myristoyl Sarcosinate,,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Acetyl Glucosamine,acetyl glucosamine,Acetyl Glucosamine,10036-64-3,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Caprylyl Methicone,caprylyl methicone,Caprylyl Methicone,17955-88-3,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Methicone,methicone,Methicone,70761-33-0,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Polyglyceryl-6 Polyricinoleate,polyglyceryl-6 polyricinoleate,Polyglyceryl-6 Polyricinoleate,107615-51-0,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Disteardimonium Hectorite,disteardimonium hectorite,Disteardimonium Hectorite,97280-96-1,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Dimethicone Crosspolymer-3,dimethicone crosspolymer-3,Dimethicone Crosspolymer-3,,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Isopropyl Titanium Triisostearate,isopropyl titanium triisostearate,Isopropyl Titanium Triisostearate,,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Lecithin,lecithin,Lecithin,8002-43-5,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Laureth-7,laureth-7,Laureth-7,3055-97-8,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Tocopheryl Acetate,tocopheryl acetate,Tocopheryl Acetate,7695-91-2,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Magnesium Ascorbyl Phosphate,magnesium ascorbyl phosphate,Magnesium Ascorbyl Phosphate,114040-31-2,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Dimethicone/PEG-10/15 Crosspolymer,dimethicone,Dimethicone,9006-65-9,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Dipropylene Glycol,dipropylene glycol,Dipropylene Glycol,110-98-5,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Sodium Chloride,sodium chloride,Sodium Chloride,7647-14-5,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Caprylyl Glycol,caprylyl glycol,Caprylyl Glycol,1117-86-8,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Tetrahexyldecyl Ascorbate,tetrahexyldecyl ascorbate,Tetrahexyldecyl Ascorbate,183476-82-6,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Disodium EDTA,disodium edta,Disodium Edta,139-33-3,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Phenoxyethanol,phenoxyethanol,Phenoxyethanol,122-99-6,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Polyaminopropyl Biguanide,polyaminopropyl biguanide,Polyaminopropyl Biguanide,,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Titanium Dioxide (CI 77891),titanium dioxide,Ci 77891,,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,"Iron Oxides (CI 77491, CI 77492, CI 77499)",iron oxides,Iron Oxides,1332-37-2,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Mica,mica,Mica,12001-26-2,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Bismuth Oxychloride (CI 77163),bismuth oxychloride,Bismuth Oxychloride,,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Octinoxate 5.90%,octinoxate 5.90%,Octinoxate 5.90%,,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Titanium Dioxide 3.50%,titanium dioxide 3.50%,Titanium Dioxide 3.50%,,No,No,No
+Ulta,Clinique Even Better Makeup SPF 15,Zinc Oxide 2.80%,zinc oxide 2.80%,Zinc Oxide 2.80%,,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Water,water,Onsen-Sui,,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Methylpropanediol,methylpropanediol,Methylpropanediol,2163-42-0,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Trometamine,trometamine,Trometamine,,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Lactic Acid,lactic acid,Lactic Acid,50-21-5,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Alcohol Denat.,alcohol denat.,Alcohol,,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,"1,2-Hexanediol","1,2-hexanediol","1,2-Hexanediol",6920-22-5,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Panthenol,panthenol,Panthenol,81-13-0,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Glycereth-26,glycereth-26,Glycereth-26,31694-55-0,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Salicylic Acid,salicylic acid,Salicylic Acid,69-72-7,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Ammonium Acryloyldimethyltaurate/VP Copolymer,ammonium acryloyldimethyltaurate,Ammonium Acryloyldimethyltaurate,,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Betaine,betaine,Betaine,107-43-7,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Trehalose,trehalose,Trehalose,99-20-7,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Polyglyceryl-10 Laurate,polyglyceryl-10 laurate,Polyglyceryl-10 Laurate,34406-66-1,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Ethylhexylglycerin,ethylhexylglycerin,Ethylhexylglycerin,70445-33-9,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Glycerin,glycerin,Glycerin,56-81-5,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Allantoin,allantoin,Allantoin,97-59-6,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Polyglyceryl-10 Myristate,polyglyceryl-10 myristate,Polyglyceryl-10 Myristate,,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Disodium EDTA,disodium edta,Disodium Edta,139-33-3,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Butylene Glycol,butylene glycol,Butylene Glycol,107-88-0,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Sodium Hyaluronate,sodium hyaluronate,Hydrolyzed Sodium Hyaluronate,,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Betaine Salicylate,betaine salicylate,Betaine Salicylate,17671-53-3,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Citrus Aurantium Dulcis (Orange) Peel Oil,citrus aurantium dulcis peel oil,Citrus Aurantium Dulcis Oil,,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Citrus Limon (Lemon) Peel Oil,citrus limon peel oil,Citrus Limon Peel Oil,8008-56-8,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Citrus Grandis (Grapefruit) Peel Oil,citrus grandis peel oil,Citrus Grandis Peel Oil,90045-43-5,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Citrus Aurantium Bergamia (Bergamot) Fruit Oil,citrus aurantium bergamia fruit oil,Citrus Aurantium Bergamia Fruit Oil,8007-75-8,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Rosmarinus Officinalis (Rosemary) Leaf Oil,rosmarinus officinalis leaf oil,Rosmarinus Officinalis Leaf Extract,,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Eucalyptus Globulus Leaf Oil,eucalyptus globulus leaf oil,Eucalyptus Citriodora Oil,,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Lavandula Angustifolia (Lavender) Oil,lavandula angustifolia oil,Lavandula Angustifolia Oil,8000-28-0,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Vitis Vinifera (Grape) Fruit Extract,vitis vinifera fruit extract,Vitis Vinifera Extract,,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Citrus Aurantifolia (Lime) Fruit Extract,citrus aurantifolia fruit extract,Citrus Aurantifolia Fruit Extract,,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Citrus Limon (Lemon) Fruit Extract,citrus limon fruit extract,Citrus Limon Fruit Extract,92346-89-9,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Pyrus Malus (Apple) Fruit Extract,pyrus malus fruit extract,Pyrus Malus Fruit Extract,85251-63-4,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Citrus Aurantium Dulcis (Orange) Fruit Extract,citrus aurantium dulcis fruit extract,Citrus Aurantium Dulcis Fruit Extract,8028-48-6,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Ethyl Hexanediol,ethyl hexanediol,Ethyl Hexanediol,94-96-2,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Centella Asiatica Extract,centella asiatica extract,Centella Asiatica Extract,84696-21-9,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Salix Alba (Willow) Bark Extract,salix alba bark extract,Salix Alba Bark Extract,84082-82-6,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Origanum Vulgare Leaf Extract,origanum vulgare leaf extract,Origanum Vulgare Leaf Extract,,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Chamaecyparis Obtusa Leaf Extract,chamaecyparis obtusa leaf extract,Chamaecyparis Obtusa Leaf Extract,,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Lactobacillus/Soybean Ferment Extract,lactobacillus,Lactobacillus,,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Cinnamomum Cassia Bark Extract,cinnamomum cassia bark extract,Cinnamomum Cassia Bark Extract,,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Scutellaria Baicalensis Root Extract,scutellaria baicalensis root extract,Scutellaria Baicalensis Root Extract,94279-99-9,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Portulaca Oleracea Extract,portulaca oleracea extract,Portulaca Oleracea Extract,90083-07-1,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Oenothera Biennis (Evening Primrose) Flower Extract,oenothera biennis flower extract,Oenothera Biennis Flower Extract,,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Pinus Palustris Leaf Extract,pinus palustris leaf extract,Pinus Palustris Leaf Extract,,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Ulmus Davidiana Root Extract,ulmus davidiana root extract,Ulmus Davidiana Root Extract,,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Pueraria Lobata Root Extract,pueraria lobata root extract,Pueraria Lobata Root Extract,,No,No,No
+Ulta,medicube Zero Pore Pad 2.0,Limonene,limonene,Limonene,138-86-3,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Aqua/Water/Eau,aqua,Aqua,,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Saccharomyces/Rice Ferment Filtrate,saccharomyces,Saccharomyces,,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Glycerin,glycerin,Glycerin,56-81-5,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Propanediol,propanediol,Propanediol,26264-14-2,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Dimethicone,dimethicone,Dimethicone,9006-65-9,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Squalane,squalane,Squalane,111-01-3,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Diisostearyl Malate,diisostearyl malate,Diisostearyl Malate,,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Behenyl Alcohol,behenyl alcohol,Behenyl Alcohol,661-19-8,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Myristyl Myristate,myristyl myristate,Myristyl Myristate,3234-85-3,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Dipentaerythrityl Hexahydroxystearate,dipentaerythrityl hexahydroxystearate,Dipentaerythrityl Hexahydroxystearate,,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Bis-Diglyceryl Polyacyladipate-2,bis-diglyceryl polyacyladipate-2,Bis-Diglyceryl Polyacyladipate-2,82249-33-0,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Tridecyl Trimellitate,tridecyl trimellitate,Tridecyl Trimellitate,94109-09-8,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Inositol,inositol,Inositol,,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Sorbitan Tristearate,sorbitan tristearate,Sorbitan Tristearate,,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Beheneth-20,beheneth-20,Beheneth-20,,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Camellia Sinensis Leaf Extract,camellia sinensis leaf extract,Camellia Sinensis Leaf Extract,84650-60-2,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Cladosiphon Okamuranus Extract,cladosiphon okamuranus extract,Cladosiphon Okamuranus Extract,,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Chondrus Crispus Extract,chondrus crispus extract,Chondrus Crispus,,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Betaphycus Gelatinum Extract,betaphycus gelatinum extract,Betaphycus Gelatinum Extract,,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Oryza Sativa (Rice) Bran Extract,oryza sativa bran extract,Oryza Sativa Bran Extract,,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Panax Ginseng Root Extract,panax ginseng root extract,Panax Ginseng Root Extract,84650-12-4,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Origanum Majorana Leaf Extract,origanum majorana leaf extract,Origanum Majorana Leaf Extract,,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Thymus Serpyllum Extract,thymus serpyllum extract,Thymus Serpyllum Extract,,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Malva Sylvestris (Mallow) Flower Extract,malva sylvestris flower extract,Malva Sylvestris Flower Extract,,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Sodium Hyaluronate,sodium hyaluronate,Hydrolyzed Sodium Hyaluronate,,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Gold,gold,Gold,,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Sericin,sericin,Sericin,,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Phytosteryl Macadamiate,phytosteryl macadamiate,Phytosteryl Macadamiate,68990-51-2,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Tocopherol,tocopherol,Tocopherol,54-28-4,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer,hydroxyethyl acrylate,Hydroxyethyl Acrylate,,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Sorbitan Isostearate,sorbitan isostearate,Sorbitan Isostearate,71902-01-7,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Polysorbate 60,polysorbate 60,Polysorbate 60,9005-67-8,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Butylene Glycol,butylene glycol,Butylene Glycol,107-88-0,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Dimethicone/Vinyl Dimethicone Crosspolymer,dimethicone,Dimethicone,9006-65-9,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Sodium Benzoate,sodium benzoate,Sodium Benzoate,532-32-1,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Gluconolactone,gluconolactone,Gluconolactone,90-80-2,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Ethylhexylglycerin,ethylhexylglycerin,Ethylhexylglycerin,70445-33-9,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Parfum/Fragrance,parfum,Parfum,,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Alcohol,alcohol,Alcohol,64-17-5,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Phenoxyethanol,phenoxyethanol,Phenoxyethanol,122-99-6,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Citral,citral,Citral,5392-40-5,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Limonene,limonene,Limonene,138-86-3,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Linalool,linalool,Linalool,78-70-6,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Mica,mica,Mica,12001-26-2,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Tin Oxide,tin oxide,Tin Oxide,18282-10-5,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Titanium Dioxide (CI 77891),titanium dioxide,Ci 77891,,No,No,No
+Ulta,TATCHA The Dewy Skin Cream,Violet 2 (CI 60725),violet 2,Violet 2,,No,No,No
+Ulta,La Roche-Posay Toleriane Double Repair,Water (La Roche-Posay Prebiotic Thermal Water),water,Onsen-Sui,,No,No,No
+Ulta,La Roche-Posay Toleriane Double Repair,Glycerin,glycerin,Glycerin,56-81-5,No,No,No
+Ulta,La Roche-Posay Toleriane Double Repair,Dimethicone,dimethicone,Dimethicone,9006-65-9,No,No,No
+Ulta,La Roche-Posay Toleriane Double Repair,Hydrogenated Polyisobutene,hydrogenated polyisobutene,Hydrogenated Polyisobutene,40921-86-6,No,No,No
+Ulta,La Roche-Posay Toleriane Double Repair,Niacinamide,niacinamide,Niacinamide,98-92-0,No,No,No
+Ulta,La Roche-Posay Toleriane Double Repair,Ammonium Polyacryloyldimethyl Taurate,ammonium polyacryloyldimethyl taurate,Ammonium Polyacryloyldimethyl Taurate,62152-14-1,No,No,No
+Ulta,La Roche-Posay Toleriane Double Repair,Myristyl Myristate,myristyl myristate,Myristyl Myristate,3234-85-3,No,No,No
+Ulta,La Roche-Posay Toleriane Double Repair,Stearic Acid,stearic acid,Stearic Acid,57-11-4,No,No,No
+Ulta,La Roche-Posay Toleriane Double Repair,Ceramide NP,ceramide np,Ceramide Np,72968-43-5,No,No,No
+Ulta,La Roche-Posay Toleriane Double Repair,Potassium Cetyl Phosphate,potassium cetyl phosphate,Potassium Cetyl Phosphate,84861-79-0,No,No,No
+Ulta,La Roche-Posay Toleriane Double Repair,Isobutane,isobutane,Isobutane,75-28-5,No,No,Yes
+Ulta,La Roche-Posay Toleriane Double Repair,Glyceryl Stearate SE,glyceryl stearate se,Glyceryl Stearate Se,11099-07-3,No,No,No
+Ulta,La Roche-Posay Toleriane Double Repair,Sodium Hydroxide,sodium hydroxide,Sodium Hydroxide,1310-73-2,No,No,No
+Ulta,La Roche-Posay Toleriane Double Repair,Myristic Acid,myristic acid,Myristic Acid,544-63-8,No,No,No
+Ulta,La Roche-Posay Toleriane Double Repair,Palmitic Acid,palmitic acid,Palmitic Acid,57-10-3,No,No,No
+Ulta,La Roche-Posay Toleriane Double Repair,Capryloyl Glycine,capryloyl glycine,Capryloyl Glycine,,No,No,No
+Ulta,La Roche-Posay Toleriane Double Repair,Caprylyl Glycol,caprylyl glycol,Caprylyl Glycol,1117-86-8,No,No,No
+Ulta,La Roche-Posay Toleriane Double Repair,Xanthan Gum,xanthan gum,Xanthan Gum,11138-66-2,No,No,No
+Ulta,La Roche-Posay Toleriane Double Repair,T-Butyl Alcohol,t-butyl alcohol,T-Butyl Alcohol,75-65-0,No,No,No
+Ulta,La Roche-Posay Toleriane Double Repair,Acrylonitrile,acrylonitrile,Acrylonitrile,,No,Yes,Yes
+Ulta,La Roche-Posay Toleriane Double Repair,Methyl Methacrylate,methyl methacrylate,Methyl Methacrylate,,No,Yes,No
+Ulta,La Roche-Posay Toleriane Double Repair,Vinylidene Chloride Copolymer,vinylidene chloride copolymer,Vinylidene Chloride Copolymer,,No,No,No
+Ulta,La Roche-Posay Toleriane Double Repair,Tocopherol,tocopherol,Tocopherol,54-28-4,No,No,No
