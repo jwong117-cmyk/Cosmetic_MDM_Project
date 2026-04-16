@@ -113,13 +113,20 @@ def main():
     
     # Print a fun summary report!
     print("\n" + "="*50)
-    print("✨ ANALYSIS COMPLETE ✨")
+    print("ANALYSIS:")
     print("="*50)
     print(f"Total Ingredients Processed: {len(final_df)}")
     print(f"Successfully Matched with a CAS: {final_df['matched_cas_number'].notna().sum()}")
     
     banned_items = final_df[(final_df['Banned_CA'] == 'Yes') | (final_df['Banned_TW'] == 'Yes') | (final_df['Banned_EU'] == 'Yes')]
-    print(f"⚠️ POTENTIAL REGULATORY FLAGS FOUND: {len(banned_items)}")
+    print(f"POTENTIAL REGULATORY FLAGS FOUND: {len(banned_items)}")
+
+    if len(banned_items) > 0:
+        print("\n DETAILED FLAG REPORT ")
+        # Select just the columns we care about to print to the screen
+        alert_view = banned_items[['retailer', 'product_name', 'ingredient_name', 'Banned_CA', 'Banned_TW', 'Banned_EU']]
+        print(alert_view.to_string(index=False))
+ 
     print(f"Data saved to: {output_path}")
 
 if __name__ == "__main__":
