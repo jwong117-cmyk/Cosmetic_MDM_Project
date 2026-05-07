@@ -1,9 +1,3 @@
-What the project does
-Why the project is useful
-How users can get started with the project
-Where users can get help with your project
-Who maintains and contributes to the project
-
 # Comparing and Analyzing Cosmetic Ingredient Regulations Across Countries
 
 ![PIFU: Interactive Website](data_clean/pifu.png) 
@@ -15,6 +9,7 @@ Who maintains and contributes to the project
 - Jessica Wong
 
 **Course:** DIDA 425: Spring 2026 - Binghamton University
+
 **Instructor:** Jacopo Mazzoni  
 
 ## Project Overview
@@ -51,6 +46,15 @@ The rapid expansion of the global cosmetic industry, fueled by online shopping a
 - Used the PubChem API to resolve synonyms and unmatched ingredients.
 - Created a "golden record" for each CAS number, keeping alternate names in another database.
 
+#### 3.5 The Purpose of Each Folder (Standard Data Pipeline Structure) 
+- data_raw: The raw files from database sources (governement public data, INCIDecoder, manual override websites and sources).
+- data_middle: Refined CSV files that has been cleaned and merged with all the raw databases.
+- data_match_reference: The final cleaned versions of the databases (standardized language - CAS Number).
+    - overarching database: Banned ingredients across the EU, Taiwan, US (California).
+    - master gold database: Comprehensive list of cosmetic ingredients found from all sources (INCIDecoder, PubChem, SpecialChem, CosIng EU, EPA, NIH) with their matched CAS number.
+    - aliases gold database: A list of all the alternative names for the ingredients in the master database.
+- data_clean: Contains the final analysis CSV files that can be used for comparison & drawing conclusions, includes basic data visualizations and other images.
+
 ### 4. Comparative Analysis
 - Cross-checked product ingredient lists against the overarching regulatory database of banned ingredients using matched CAS numbers.
 - Determined if products sold by mainstream retailers contained ingredients banned in California, Taiwan, or the EU.
@@ -85,7 +89,7 @@ Our research points to one major takeaway: cosmetic safety standards imbalanced 
 
 This project goes beyond pointing out the problem. We hope to offer a beginning to a solution. By combining complex global regulations into one searchable database, we hope to make ingredient research accessible and transparent to the general public. Ultimately, a foundational understanding of these regulatory disrepancies can have a profound impact. As public knowledge expands and becomes transparent, we can create the necessary momentum to drive actionable reform in cosmetic policy. 
 
-The more we understand the reality of global cosmetic safety, the better equipped we are to advocate for stronger, safer policies. This advocacy can occur domestically, by benchmarking against stricter international standards, or internationally fostering harmonized regulatory frameworks. Moving forward, protecting consumers will require stronger collaboartion among global regulatory agencies, clearer ingredient labels, and accessibel public tools that bring clarity to the booming skincare market.
+The more we understand the reality of global cosmetic safety, the better equipped we are to advocate for stronger, safer policies. This advocacy can occur domestically, by benchmarking against stricter international standards, or internationally fostering harmonized regulatory frameworks. Moving forward, protecting consumers will require collaboartion across global regulatory agencies, clearer ingredient labels, and accessible public tools that bring clarity to the booming skincare market.
 
 ----
 
