@@ -4,7 +4,7 @@
 [Click here to access the website link!](https://pifu.framer.website/)
 
 ## Authors
-- Angel Zeng
+- Angel Zeng 
 - Ashley Maurad
 - Jessica Wong
 
@@ -46,7 +46,7 @@ The rapid expansion of the global cosmetic industry, fueled by online shopping a
 - Used the PubChem API to resolve synonyms and unmatched ingredients.
 - Created a "golden record" for each CAS number, keeping alternate names in another database.
 
-#### 3.5 The Purpose of Each Folder (Standard Data Pipeline Structure) 
+### [3.5 The Purpose of Each Folder (Standard Data Pipeline Structure)] 
 - data_raw: The raw files from database sources (governement public data, INCIDecoder, manual override websites and sources).
 - data_middle: Refined CSV files that has been cleaned and merged with all the raw databases.
 - data_match_reference: The final cleaned versions of the databases (standardized language - CAS Number).
@@ -106,3 +106,9 @@ The more we understand the reality of global cosmetic safety, the better equippe
 - [Overarching Regulatory Table](data_match_reference/Overarching_Regulatory_Table.csv)
 - [Final Product Ingredient Analysis](data_clean/Final_Product_Ingredient_Analysis.csv) 
 - [Regulatory Overlap Summary](data_clean/Regulatory_Overlap_Summary.csv)
+
+## Contact Information 
+If you have any questions or you would like to expand on this conversation, feel free to reach out! 
+- Angel Zeng (azeng7@binghamton.edu)
+- Ashley Maurad (ashleymaurad57@gmail.com)
+- Jessica Wong (wjesseny@gmail.com)
